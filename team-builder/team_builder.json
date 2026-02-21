@@ -22055,6 +22055,714 @@
       ]
     },
     {
+      "name": "Spiral",
+      "displayName": "Spiral",
+      "skinFolder": "Spiral",
+      "numRows": 1,
+      "npzWidth": 765,
+      "npzHeight": 237,
+      "poses": [
+        {
+          "file": "Spiral_00.png",
+          "index": 0,
+          "bounds": [
+            7,
+            76,
+            97,
+            200
+          ]
+        },
+        {
+          "file": "Spiral_01.png",
+          "index": 1,
+          "bounds": [
+            63,
+            41,
+            224,
+            107
+          ]
+        },
+        {
+          "file": "Spiral_02.png",
+          "index": 2,
+          "bounds": [
+            99,
+            121,
+            187,
+            232
+          ]
+        },
+        {
+          "file": "Spiral_03.png",
+          "index": 3,
+          "bounds": [
+            176,
+            18,
+            342,
+            83
+          ]
+        },
+        {
+          "file": "Spiral_04.png",
+          "index": 4,
+          "bounds": [
+            191,
+            133,
+            389,
+            231
+          ]
+        },
+        {
+          "file": "Spiral_05.png",
+          "index": 5,
+          "bounds": [
+            345,
+            2,
+            429,
+            114
+          ]
+        },
+        {
+          "file": "Spiral_06.png",
+          "index": 6,
+          "bounds": [
+            333,
+            175,
+            453,
+            235
+          ]
+        },
+        {
+          "file": "Spiral_07.png",
+          "index": 7,
+          "bounds": [
+            439,
+            124,
+            564,
+            229
+          ]
+        },
+        {
+          "file": "Spiral_08.png",
+          "index": 8,
+          "bounds": [
+            446,
+            2,
+            568,
+            108
+          ]
+        },
+        {
+          "file": "Spiral_09.png",
+          "index": 9,
+          "bounds": [
+            567,
+            96,
+            694,
+            234
+          ]
+        },
+        {
+          "file": "Spiral_10.png",
+          "index": 10,
+          "bounds": [
+            584,
+            9,
+            734,
+            105
+          ]
+        },
+        {
+          "file": "Spiral_11.png",
+          "index": 11,
+          "bounds": [
+            657,
+            93,
+            758,
+            235
+          ]
+        }
+      ],
+      "skins": [
+        {
+          "file": "Spiral_014cdb75.png",
+          "desc": "014cdb75"
+        },
+        {
+          "file": "Spiral_01b06701_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Spiral_05fe6a69_Apollo-Mix-v1.png",
+          "desc": "Apollo Mix v1"
+        },
+        {
+          "file": "Spiral_0a5ec172_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Spiral_0a92c121_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Spiral_0c8efea3_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Spiral_10440a77_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Spiral_11168d3f_CAPCOM-CLASSICS-MEGAMIX-by.png",
+          "desc": "CAPCOM CLASSICS MEGAMIX by"
+        },
+        {
+          "file": "Spiral_1622f4a1_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_168dc2d3_EroticJoshMix-Vol1.png",
+          "desc": "EroticJoshMix Vol1"
+        },
+        {
+          "file": "Spiral_18b9e082_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Spiral_1950cf85_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Spiral_1a7d09eb_brexit-mix.png",
+          "desc": "brexit mix"
+        },
+        {
+          "file": "Spiral_1b7342ed_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Spiral_1bd4579c_goesser.png",
+          "desc": "goesser"
+        },
+        {
+          "file": "Spiral_1c8ea875_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_1ef45bdd_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Spiral_1ff22173_Goon-Mix-Vol-3.png",
+          "desc": "Goon Mix Vol 3"
+        },
+        {
+          "file": "Spiral_200dd926_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Spiral_22c36a37_Goon-Mix-Ver-B.png",
+          "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Spiral_259a5ddc_JW-mischen-mix-X2-LP.png",
+          "desc": "JW mischen mix X2 LP"
+        },
+        {
+          "file": "Spiral_26bbaae7_cruzial-mix.png",
+          "desc": "cruzial mix"
+        },
+        {
+          "file": "Spiral_27e88999_cruzial-mix.png",
+          "desc": "cruzial mix"
+        },
+        {
+          "file": "Spiral_286dad56_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Spiral_2b87dd0d_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Spiral_344289cc_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Spiral_36086c66_goesser.png",
+          "desc": "goesser"
+        },
+        {
+          "file": "Spiral_37a64b83_goesser.png",
+          "desc": "goesser"
+        },
+        {
+          "file": "Spiral_3c1cb4c1_RELOADED.png",
+          "desc": "RELOADED"
+        },
+        {
+          "file": "Spiral_3c48ea5d_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Spiral_40f6cb6f_cherokee-mix.png",
+          "desc": "cherokee mix"
+        },
+        {
+          "file": "Spiral_41cfb060_Goon-Mix-Vol-3.png",
+          "desc": "Goon Mix Vol 3"
+        },
+        {
+          "file": "Spiral_43f700ba_Link.png",
+          "desc": "Link"
+        },
+        {
+          "file": "Spiral_45511f91.png",
+          "desc": "45511f91"
+        },
+        {
+          "file": "Spiral_4a69ee76_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Spiral_4b18a75f_goesser.png",
+          "desc": "goesser"
+        },
+        {
+          "file": "Spiral_524dc18c_brexit-mix.png",
+          "desc": "brexit mix"
+        },
+        {
+          "file": "Spiral_5310cd9e_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Spiral_55162dcf_cherokee-mix.png",
+          "desc": "cherokee mix"
+        },
+        {
+          "file": "Spiral_55935249_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Spiral_5617e86a_Goon-Mix-Vol-3.png",
+          "desc": "Goon Mix Vol 3"
+        },
+        {
+          "file": "Spiral_569988b7_brexit-mix.png",
+          "desc": "brexit mix"
+        },
+        {
+          "file": "Spiral_5bf0b0bc_JW-mischen-mix-X2-A2.png",
+          "desc": "JW mischen mix X2 A2"
+        },
+        {
+          "file": "Spiral_5bffc949_Vishnu-by-Taton.png",
+          "desc": "Vishnu by Taton"
+        },
+        {
+          "file": "Spiral_5fa763b9_RELOADED.png",
+          "desc": "RELOADED"
+        },
+        {
+          "file": "Spiral_62549ff2_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Spiral_6558edd2_EroticJoshMix-Vol1.png",
+          "desc": "EroticJoshMix Vol1"
+        },
+        {
+          "file": "Spiral_6573ab10_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Spiral_65eaffef_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Spiral_67cd21f3_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Spiral_68e217cb_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Spiral_6a8126db_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Spiral_6c66e4ae_cruzial-mix.png",
+          "desc": "cruzial mix"
+        },
+        {
+          "file": "Spiral_6ff0bbd1_brexit-mix.png",
+          "desc": "brexit mix"
+        },
+        {
+          "file": "Spiral_6ff84245_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Spiral_705c7e39_cherokee-mix.png",
+          "desc": "cherokee mix"
+        },
+        {
+          "file": "Spiral_707491e4_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Spiral_70bd4d1e_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Spiral_75158ac1_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Spiral_76127413_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Spiral_7723821b_JW-mischen-mix-X2-HP.png",
+          "desc": "JW mischen mix X2 HP"
+        },
+        {
+          "file": "Spiral_7761b51f_cherokee-mix.png",
+          "desc": "cherokee mix"
+        },
+        {
+          "file": "Spiral_7b8d5953_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Spiral_7c52ef3d_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Spiral_7da39809_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Spiral_7ee7b15c_JW-mischen-mix-X2-HK.png",
+          "desc": "JW mischen mix X2 HK"
+        },
+        {
+          "file": "Spiral_85b14e1f_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_8673a442_Earthy.png",
+          "desc": "Earthy"
+        },
+        {
+          "file": "Spiral_8bad3484_EroticJoshMix-Vol1.png",
+          "desc": "EroticJoshMix Vol1"
+        },
+        {
+          "file": "Spiral_8fedc0d5_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_93782a2b_Goon-Mix-Vol-3.png",
+          "desc": "Goon Mix Vol 3"
+        },
+        {
+          "file": "Spiral_94c38f78_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Spiral_9a6ee0eb_Goon-Mix-Ver-B.png",
+          "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Spiral_9c319609_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Spiral_9e70f22a_JW-mischen-mix-X2-A1.png",
+          "desc": "JW mischen mix X2 A1"
+        },
+        {
+          "file": "Spiral_9fe7039e_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_a1e7cb71_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Spiral_a2440060_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Spiral_a474115e_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Spiral_a56fafed_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Spiral_a5d4365c_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Spiral_a831df60_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Spiral_a85e4b1b_Awesome-Mix-Vol-2.png",
+          "desc": "Awesome Mix Vol 2"
+        },
+        {
+          "file": "Spiral_a94f7e24_goesser.png",
+          "desc": "goesser"
+        },
+        {
+          "file": "Spiral_aa06ad22_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Spiral_aa40feaf_What-Was.png",
+          "desc": "What Was"
+        },
+        {
+          "file": "Spiral_ab302238_Goon-Mix-Vol-3.png",
+          "desc": "Goon Mix Vol 3"
+        },
+        {
+          "file": "Spiral_ab55291a_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Spiral_ae4479aa_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Spiral_ae52dad7_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Spiral_ae8c3e2b_cruzial-mix.png",
+          "desc": "cruzial mix"
+        },
+        {
+          "file": "Spiral_af987771_Apollo-Mix-v1.png",
+          "desc": "Apollo Mix v1"
+        },
+        {
+          "file": "Spiral_b0fb6669_EroticJoshMix-Vol1.png",
+          "desc": "EroticJoshMix Vol1"
+        },
+        {
+          "file": "Spiral_b1b8be10.png",
+          "desc": "b1b8be10"
+        },
+        {
+          "file": "Spiral_b23758d3_EMP-Matrix.png",
+          "desc": "EMP Matrix"
+        },
+        {
+          "file": "Spiral_b237883d_Goon-Mix-Ver-B.png",
+          "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Spiral_b437b80c_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Spiral_b5d55b6b_Goon-Mix-Ver-B.png",
+          "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Spiral_b835ef44_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Spiral_b839ade4_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Spiral_b8482ed1_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Spiral_ba35d88e_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Spiral_baca0972_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Spiral_bb4ffdbe_goesser.png",
+          "desc": "goesser"
+        },
+        {
+          "file": "Spiral_bc36752e_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Spiral_bfd77bea_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Spiral_c0aaebd2_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Spiral_c3e86a92_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Spiral_c6f9d121_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Spiral_c7064448_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Spiral_c9de367b_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Spiral_cb6825aa_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Spiral_cc66d058_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Spiral_ccc15681_Goldfinger.png",
+          "desc": "Goldfinger"
+        },
+        {
+          "file": "Spiral_cd84eaf6_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Spiral_ce863719_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Spiral_cef2c530_Apollo-Mix-v1.png",
+          "desc": "Apollo Mix v1"
+        },
+        {
+          "file": "Spiral_cf2dcf2f_MvC2-GrecoMix-NoMusic.png",
+          "desc": "MvC2 GrecoMix NoMusic"
+        },
+        {
+          "file": "Spiral_cf54c2a2_Goon-Mix-Ver-B.png",
+          "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Spiral_d069c814_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Spiral_d12de5ea_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Spiral_d1eb9b53.png",
+          "desc": "d1eb9b53"
+        },
+        {
+          "file": "Spiral_d369a4dc_Spirallp.png",
+          "desc": "Spirallp"
+        },
+        {
+          "file": "Spiral_d3f9293a_Spirale.png",
+          "desc": "Spirale"
+        },
+        {
+          "file": "Spiral_d5ba4677_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Spiral_d6b1e9fa_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Spiral_d7cbdd82_Carrot.png",
+          "desc": "Carrot"
+        },
+        {
+          "file": "Spiral_d9801649_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Spiral_da180e4f_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Spiral_dd723242_brexit-mix.png",
+          "desc": "brexit mix"
+        },
+        {
+          "file": "Spiral_de60e6e1_JW-mischen-mix-X2-LK.png",
+          "desc": "JW mischen mix X2 LK"
+        },
+        {
+          "file": "Spiral_e289543c_CAPCOM-CLASSICS-MEGAMIX-by.png",
+          "desc": "CAPCOM CLASSICS MEGAMIX by"
+        },
+        {
+          "file": "Spiral_e7df71a1_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Spiral_ea946bb3_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Spiral_eaa7cde7_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Spiral_ed5a2833.png",
+          "desc": "ed5a2833"
+        },
+        {
+          "file": "Spiral_efdfa248_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Spiral_f0529b6c_EroticJoshMix-Vol1.png",
+          "desc": "EroticJoshMix Vol1"
+        },
+        {
+          "file": "Spiral_f51ff645_cruzial-mix.png",
+          "desc": "cruzial mix"
+        },
+        {
+          "file": "Spiral_f66d234f_cruzial-mix.png",
+          "desc": "cruzial mix"
+        },
+        {
+          "file": "Spiral_f981e3c4_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_f9d45167_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Spiral_fa6741b3_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Spiral_fd723f84.png",
+          "desc": "fd723f84"
+        }
+      ]
+    },
+    {
       "name": "Storm",
       "displayName": "Storm",
       "skinFolder": "Storm",
@@ -26825,7 +27533,7 @@
       ]
     }
   ],
-  "totalCharacters": 55,
-  "totalPoses": 704,
-  "totalSkins": 4781
+  "totalCharacters": 56,
+  "totalPoses": 716,
+  "totalSkins": 4925
 }
