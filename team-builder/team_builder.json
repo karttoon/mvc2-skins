@@ -1521,6 +1521,10 @@
           "desc": "0cfe9750_Goon Mix Ver B"
         },
         {
+          "file": "BB_Hood_0dba381c_JW-mischen-mix-X2-HP.png",
+          "desc": "0dba381c_JW mischen mix X2 HP"
+        },
+        {
           "file": "BB_Hood_0ed1a9de_Goon-Mix-Vol-2.png",
           "desc": "0ed1a9de_Goon Mix Vol 2"
         },
@@ -1551,6 +1555,10 @@
         {
           "file": "BB_Hood_2d414a69_EMP-Matrix.png",
           "desc": "2d414a69_EMP Matrix"
+        },
+        {
+          "file": "BB_Hood_32b3feba_JW-mischen-mix-X2-LP.png",
+          "desc": "32b3feba_JW mischen mix X2 LP"
         },
         {
           "file": "BB_Hood_365e50b6_GoldmanJaqs-UK-Rebirth.png",
@@ -1601,6 +1609,10 @@
           "desc": "6ba2d738_GoldmanJaqs UK Rebirth"
         },
         {
+          "file": "BB_Hood_726855ef_JW-mischen-mix-X2-LK.png",
+          "desc": "726855ef_JW mischen mix X2 LK"
+        },
+        {
           "file": "BB_Hood_760248b5_GoldmanJaqs-UK-Rebirth.png",
           "desc": "760248b5_GoldmanJaqs UK Rebirth"
         },
@@ -1627,6 +1639,10 @@
         {
           "file": "BB_Hood_8cb4d5db_Changon-Mix.png",
           "desc": "8cb4d5db_Changon Mix"
+        },
+        {
+          "file": "BB_Hood_8ea1b842_JW-mischen-mix-X2-HK.png",
+          "desc": "8ea1b842_JW mischen mix X2 HK"
         },
         {
           "file": "BB_Hood_95be6c0d_Changon-Mix.png",
@@ -1669,6 +1685,10 @@
           "desc": "a89f5c89_EMVC2"
         },
         {
+          "file": "BB_Hood_ac036021_JW-mischen-mix-X2-A1.png",
+          "desc": "ac036021_JW mischen mix X2 A1"
+        },
+        {
           "file": "BB_Hood_ae00387c_Changon-Mix.png",
           "desc": "ae00387c_Changon Mix"
         },
@@ -1679,6 +1699,10 @@
         {
           "file": "BB_Hood_b66fe6ca_GoldmanJaqs-UK-Rebirth.png",
           "desc": "b66fe6ca_GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "BB_Hood_b70e5597_JW-mischen-mix-X2-A2.png",
+          "desc": "b70e5597_JW mischen mix X2 A2"
         },
         {
           "file": "BB_Hood_bb5ce993_GoldmanJaqs-UK-Rebirth.png",
@@ -5450,6 +5474,30 @@
         }
       ],
       "skins": [
+        {
+          "file": "Chun-Li_2cb1b1a4_JW-mischen-mix-X2-LK.png",
+          "desc": "JW mischen mix X2 LK"
+        },
+        {
+          "file": "Chun-Li_43164ed3_JW-mischen-mix-X2-A1.png",
+          "desc": "JW mischen mix X2 A1"
+        },
+        {
+          "file": "Chun-Li_4e0b2fd1_JW-mischen-mix-X2-LP.png",
+          "desc": "JW mischen mix X2 LP"
+        },
+        {
+          "file": "Chun-Li_a033fefa_JW-mischen-mix-X2-A2.png",
+          "desc": "JW mischen mix X2 A2"
+        },
+        {
+          "file": "Chun-Li_e738da95_JW-mischen-mix-X2-HK.png",
+          "desc": "JW mischen mix X2 HK"
+        },
+        {
+          "file": "Chun-Li_fc672a76_JW-mischen-mix-X2-HP.png",
+          "desc": "JW mischen mix X2 HP"
+        },
         {
           "file": "Chun_Li_0169eb21_Goon-Mix-Vol-3.png",
           "desc": "0169eb21_Goon Mix Vol 3"
@@ -13717,10 +13765,6 @@
           "desc": "Dave s 5th Mix"
         },
         {
-          "file": "Magneto_1b4a2470_JW-mischen-mix-X2-LP.png",
-          "desc": "JW mischen mix X2 LP"
-        },
-        {
           "file": "Magneto_1ba0a17a_Goon-Mix-Ver-B.png",
           "desc": "Goon Mix Ver B"
         },
@@ -13795,6 +13839,10 @@
         {
           "file": "Magneto_3a5dcf88.png",
           "desc": "3a5dcf88"
+        },
+        {
+          "file": "Magneto_3adfaacc_JW-mischen-mix-X2-LP.png",
+          "desc": "JW mischen mix X2 LP"
         },
         {
           "file": "Magneto_3bb952ba_GoldmanJaqs-UK-Rebirth.png",
@@ -24567,6 +24615,10 @@
           "desc": "675383e4"
         },
         {
+          "file": "Thanos_675383e4_JW-mischen-mix-X2-LP.png",
+          "desc": "JW mischen mix X2 LP"
+        },
+        {
           "file": "Thanos_69742d4c_Goon-Mix-Vol-3.png",
           "desc": "Goon Mix Vol 3"
         },
@@ -27535,5 +27587,5 @@
   ],
   "totalCharacters": 56,
   "totalPoses": 716,
-  "totalSkins": 4925
+  "totalSkins": 4938
 }
