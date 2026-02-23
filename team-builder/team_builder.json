@@ -2653,6 +2653,10 @@
           "desc": "GrapeNoMusic"
         },
         {
+          "file": "Cable_3e53e19b_SLJTO-cabeool.png",
+          "desc": "SLJTO cabeool"
+        },
+        {
           "file": "Cable_3eb9c402_mvc2-80s-mix-vol-1.png",
           "desc": "mvc2 80s mix vol 1"
         },
@@ -3777,12 +3781,20 @@
           "desc": "0296caf7_Apollo Mix v1"
         },
         {
+          "file": "Captain_America_03d7a8bb_SLJTO-usagent.png",
+          "desc": "03d7a8bb_SLJTO usagent"
+        },
+        {
           "file": "Captain_America_081a0252_CAPCOM-CLASSICS-MEGAMIX-by.png",
           "desc": "081a0252_CAPCOM CLASSICS MEGAMIX by"
         },
         {
           "file": "Captain_America_0943c7cc_GoldmanJaqs-UK-Rebirth.png",
           "desc": "0943c7cc_GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Captain_America_0c0187ff_SLJTO-greencap.png",
+          "desc": "0c0187ff_SLJTO greencap"
         },
         {
           "file": "Captain_America_0c42531c_CAPCOM-CLASSICS-MEGAMIX-by.png",
@@ -4013,8 +4025,16 @@
           "desc": "da4b7d4d_Freq mix"
         },
         {
+          "file": "Captain_America_dd06d545_SLJTO-mcucap.png",
+          "desc": "dd06d545_SLJTO mcucap"
+        },
+        {
           "file": "Captain_America_dd0c359e_JW-mischen-mix-X2-A1.png",
           "desc": "dd0c359e_JW mischen mix X2 A1"
+        },
+        {
+          "file": "Captain_America_ddb8984c_SLJTO-mcucapp.png",
+          "desc": "ddb8984c_SLJTO mcucapp"
         },
         {
           "file": "Captain_America_e8421957_EMVC2.png",
@@ -6201,6 +6221,10 @@
           "desc": "Freq mix"
         },
         {
+          "file": "Colossus_e198f015_SLJTO-moviecolossus.png",
+          "desc": "SLJTO moviecolossus"
+        },
+        {
           "file": "Colossus_e5187c98_Vanilla-MvC2-OST.png",
           "desc": "Vanilla MvC2 OST"
         },
@@ -7003,6 +7027,10 @@
           "desc": "Apollo Mix v1"
         },
         {
+          "file": "Cyclops_d1848f71_SLJTO-2000-movie-cyclops.png",
+          "desc": "SLJTO 2000 movie cyclops"
+        },
+        {
           "file": "Cyclops_d36c6a08_cherokee-mix.png",
           "desc": "cherokee mix"
         },
@@ -7033,6 +7061,10 @@
         {
           "file": "Cyclops_da3d4e86_Awesome-Mix-Vol-2.png",
           "desc": "Awesome Mix Vol 2"
+        },
+        {
+          "file": "Cyclops_db4fd878_SLJTO-cyclops-remake.png",
+          "desc": "SLJTO cyclops remake"
         },
         {
           "file": "Cyclops_dc19df00_Goon-Mix-Ver-B.png",
@@ -9207,6 +9239,10 @@
           "desc": "Dsdsdsdss"
         },
         {
+          "file": "Gambit_20b8caba_SLJTO-nabnab.png",
+          "desc": "SLJTO nabnab"
+        },
+        {
           "file": "Gambit_28ae70d6_Dave-s-5th-Mix.png",
           "desc": "Dave s 5th Mix"
         },
@@ -9433,474 +9469,6 @@
         {
           "file": "Gambit_fbf13bd6_GoldmanJaqs-UK-Rebirth.png",
           "desc": "GoldmanJaqs UK Rebirth"
-        }
-      ]
-    },
-    {
-      "name": "Guile",
-      "displayName": "Guile",
-      "skinFolder": "Guile",
-      "numRows": 1,
-      "npzWidth": 1017,
-      "npzHeight": 240,
-      "poses": [
-        {
-          "file": "Guile_00.png",
-          "index": 0,
-          "bounds": [
-            0,
-            141,
-            81,
-            240
-          ]
-        },
-        {
-          "file": "Guile_01.png",
-          "index": 1,
-          "bounds": [
-            6,
-            11,
-            92,
-            135
-          ]
-        },
-        {
-          "file": "Guile_02.png",
-          "index": 2,
-          "bounds": [
-            93,
-            130,
-            177,
-            240
-          ]
-        },
-        {
-          "file": "Guile_03.png",
-          "index": 3,
-          "bounds": [
-            100,
-            15,
-            181,
-            127
-          ]
-        },
-        {
-          "file": "Guile_04.png",
-          "index": 4,
-          "bounds": [
-            158,
-            138,
-            263,
-            240
-          ]
-        },
-        {
-          "file": "Guile_05.png",
-          "index": 5,
-          "bounds": [
-            188,
-            44,
-            336,
-            129
-          ]
-        },
-        {
-          "file": "Guile_06.png",
-          "index": 6,
-          "bounds": [
-            266,
-            124,
-            341,
-            240
-          ]
-        },
-        {
-          "file": "Guile_07.png",
-          "index": 7,
-          "bounds": [
-            328,
-            15,
-            467,
-            115
-          ]
-        },
-        {
-          "file": "Guile_08.png",
-          "index": 8,
-          "bounds": [
-            343,
-            146,
-            451,
-            240
-          ]
-        },
-        {
-          "file": "Guile_09.png",
-          "index": 9,
-          "bounds": [
-            435,
-            94,
-            492,
-            166
-          ]
-        },
-        {
-          "file": "Guile_10.png",
-          "index": 10,
-          "bounds": [
-            458,
-            154,
-            551,
-            240
-          ]
-        },
-        {
-          "file": "Guile_11.png",
-          "index": 11,
-          "bounds": [
-            504,
-            44,
-            648,
-            121
-          ]
-        },
-        {
-          "file": "Guile_12.png",
-          "index": 12,
-          "bounds": [
-            549,
-            115,
-            699,
-            184
-          ]
-        },
-        {
-          "file": "Guile_13.png",
-          "index": 13,
-          "bounds": [
-            553,
-            190,
-            672,
-            240
-          ]
-        },
-        {
-          "file": "Guile_14.png",
-          "index": 14,
-          "bounds": [
-            649,
-            72,
-            721,
-            143
-          ]
-        },
-        {
-          "file": "Guile_15.png",
-          "index": 15,
-          "bounds": [
-            676,
-            141,
-            770,
-            240
-          ]
-        },
-        {
-          "file": "Guile_16.png",
-          "index": 16,
-          "bounds": [
-            722,
-            0,
-            795,
-            127
-          ]
-        },
-        {
-          "file": "Guile_17.png",
-          "index": 17,
-          "bounds": [
-            781,
-            127,
-            866,
-            240
-          ]
-        },
-        {
-          "file": "Guile_18.png",
-          "index": 18,
-          "bounds": [
-            805,
-            0,
-            904,
-            121
-          ]
-        },
-        {
-          "file": "Guile_19.png",
-          "index": 19,
-          "bounds": [
-            853,
-            173,
-            1017,
-            240
-          ]
-        },
-        {
-          "file": "Guile_20.png",
-          "index": 20,
-          "bounds": [
-            880,
-            119,
-            1017,
-            185
-          ]
-        },
-        {
-          "file": "Guile_21.png",
-          "index": 21,
-          "bounds": [
-            898,
-            0,
-            1017,
-            119
-          ]
-        }
-      ],
-      "skins": [
-        {
-          "file": "Guile_000d3f92_Vanilla-MvC2-OST.png",
-          "desc": "Vanilla MvC2 OST"
-        },
-        {
-          "file": "Guile_0067f373_EMP-Matrix.png",
-          "desc": "EMP Matrix"
-        },
-        {
-          "file": "Guile_0318125b_Goon-Mix-Vol-2.png",
-          "desc": "Goon Mix Vol 2"
-        },
-        {
-          "file": "Guile_265f03ab.png",
-          "desc": "265f03ab"
-        },
-        {
-          "file": "Guile_2bc25370_Vanilla-MvC2-OST.png",
-          "desc": "Vanilla MvC2 OST"
-        },
-        {
-          "file": "Guile_2f31dc16_EMP-Matrix.png",
-          "desc": "EMP Matrix"
-        },
-        {
-          "file": "Guile_30820b12_BerlinBumble-Mix.png",
-          "desc": "BerlinBumble Mix"
-        },
-        {
-          "file": "Guile_3096e0a0_JW-mischen-mix-X2-LK.png",
-          "desc": "JW mischen mix X2 LK"
-        },
-        {
-          "file": "Guile_34fa799e_BerlinBumble-Mix.png",
-          "desc": "BerlinBumble Mix"
-        },
-        {
-          "file": "Guile_3691467c_GoldmanJaqs-UK-Rebirth.png",
-          "desc": "GoldmanJaqs UK Rebirth"
-        },
-        {
-          "file": "Guile_3be09adc_EMVC2.png",
-          "desc": "EMVC2"
-        },
-        {
-          "file": "Guile_3f937727_DEFAULTMIX-by-chun.png",
-          "desc": "DEFAULTMIX by chun"
-        },
-        {
-          "file": "Guile_4507e73e_Goon-Mix-Vol-2.png",
-          "desc": "Goon Mix Vol 2"
-        },
-        {
-          "file": "Guile_46dbf896_Chris-Matrix-2020-Mix-CFW-PS3.png",
-          "desc": "Chris Matrix 2020 Mix CFW PS3"
-        },
-        {
-          "file": "Guile_472bd933_Vanilla-MvC2-OST.png",
-          "desc": "Vanilla MvC2 OST"
-        },
-        {
-          "file": "Guile_496f9e4e_Vanilla-MvC2-OST.png",
-          "desc": "Vanilla MvC2 OST"
-        },
-        {
-          "file": "Guile_4c1ddad1_RELOADED.png",
-          "desc": "RELOADED"
-        },
-        {
-          "file": "Guile_54a6c962_Changon-Mix.png",
-          "desc": "Changon Mix"
-        },
-        {
-          "file": "Guile_5828a5f1_AccurateMix.png",
-          "desc": "AccurateMix"
-        },
-        {
-          "file": "Guile_5de07134_DEFAULTMIX-by-chun.png",
-          "desc": "DEFAULTMIX by chun"
-        },
-        {
-          "file": "Guile_6347fcee_GoldmanJaqs-UK-Rebirth.png",
-          "desc": "GoldmanJaqs UK Rebirth"
-        },
-        {
-          "file": "Guile_68c1f7bf_DEFAULTMIX-by-chun.png",
-          "desc": "DEFAULTMIX by chun"
-        },
-        {
-          "file": "Guile_6a8fea4a_EMVC2.png",
-          "desc": "EMVC2"
-        },
-        {
-          "file": "Guile_6c95d564_Dave-s-5th-Mix.png",
-          "desc": "Dave s 5th Mix"
-        },
-        {
-          "file": "Guile_76fdf6a9_GoldmanJaqs-UK-Rebirth.png",
-          "desc": "GoldmanJaqs UK Rebirth"
-        },
-        {
-          "file": "Guile_77b9a290_JW-mischen-mix-X2-LP.png",
-          "desc": "JW mischen mix X2 LP"
-        },
-        {
-          "file": "Guile_7d59e980_EMVC2.png",
-          "desc": "EMVC2"
-        },
-        {
-          "file": "Guile_7ea9559d_Funk-Mix.png",
-          "desc": "Funk Mix"
-        },
-        {
-          "file": "Guile_860f620a_Freq-mix.png",
-          "desc": "Freq mix"
-        },
-        {
-          "file": "Guile_8ad67ea0_JW-mischen-mix-X2-A1.png",
-          "desc": "JW mischen mix X2 A1"
-        },
-        {
-          "file": "Guile_8b648065_Goon-Mix-Vol-2.png",
-          "desc": "Goon Mix Vol 2"
-        },
-        {
-          "file": "Guile_918d234e_EMVC2.png",
-          "desc": "EMVC2"
-        },
-        {
-          "file": "Guile_9719bdd0_Vanilla-MvC2-OST.png",
-          "desc": "Vanilla MvC2 OST"
-        },
-        {
-          "file": "Guile_9b66c2dc_EroticJoshMix-Vol1.png",
-          "desc": "EroticJoshMix Vol1"
-        },
-        {
-          "file": "Guile_9fcdcc35_Awesome-Mix-Vol-2.png",
-          "desc": "Awesome Mix Vol 2"
-        },
-        {
-          "file": "Guile_b189900f_EMP-Matrix.png",
-          "desc": "EMP Matrix"
-        },
-        {
-          "file": "Guile_b4bd72d4_EMVC2.png",
-          "desc": "EMVC2"
-        },
-        {
-          "file": "Guile_b84e84f0_Chris-Matrix-2020-Mix-CFW-PS3.png",
-          "desc": "Chris Matrix 2020 Mix CFW PS3"
-        },
-        {
-          "file": "Guile_c420f9ce_JW-mischen-mix-X2-A2.png",
-          "desc": "JW mischen mix X2 A2"
-        },
-        {
-          "file": "Guile_c51e7a8b_Chris-Matrix-2020-Mix-CFW-PS3.png",
-          "desc": "Chris Matrix 2020 Mix CFW PS3"
-        },
-        {
-          "file": "Guile_c70ec482_GoldmanJaqs-UK-Rebirth.png",
-          "desc": "GoldmanJaqs UK Rebirth"
-        },
-        {
-          "file": "Guile_c810525d_80s-mix-vol-1.png",
-          "desc": "80s mix vol 1"
-        },
-        {
-          "file": "Guile_c82aa672_JW-mischen-mix-X2-HK.png",
-          "desc": "JW mischen mix X2 HK"
-        },
-        {
-          "file": "Guile_c9f69edb_AccurateMix.png",
-          "desc": "AccurateMix"
-        },
-        {
-          "file": "Guile_d21e6206_JW-mischen-mix-X2-HP.png",
-          "desc": "JW mischen mix X2 HP"
-        },
-        {
-          "file": "Guile_d8846809_Chris-Matrix-2020-Mix-CFW-PS3.png",
-          "desc": "Chris Matrix 2020 Mix CFW PS3"
-        },
-        {
-          "file": "Guile_e0969801_AccurateMix.png",
-          "desc": "AccurateMix"
-        },
-        {
-          "file": "Guile_e1cf1709_Goon-Mix-Vol-2.png",
-          "desc": "Goon Mix Vol 2"
-        },
-        {
-          "file": "Guile_e4effe16_Freq-mix.png",
-          "desc": "Freq mix"
-        },
-        {
-          "file": "Guile_e87e54c3_GoldmanJaqs-UK-Rebirth.png",
-          "desc": "GoldmanJaqs UK Rebirth"
-        },
-        {
-          "file": "Guile_ef8f4f2e_AccurateMix.png",
-          "desc": "AccurateMix"
-        },
-        {
-          "file": "Guile_f0a982e9_BerlinBumble-Mix.png",
-          "desc": "BerlinBumble Mix"
-        },
-        {
-          "file": "Guile_f0bb6567_Vanilla-MvC2-OST.png",
-          "desc": "Vanilla MvC2 OST"
-        },
-        {
-          "file": "Guile_f4dd05f7_Chris-Matrix-2020-Mix-CFW-PS3.png",
-          "desc": "Chris Matrix 2020 Mix CFW PS3"
-        },
-        {
-          "file": "Guile_f4fb3a5e_Evo2007.png",
-          "desc": "Evo2007"
-        },
-        {
-          "file": "Guile_f91229c9_AccurateMix.png",
-          "desc": "AccurateMix"
-        },
-        {
-          "file": "Guile_fbca8ffe_AccurateMix.png",
-          "desc": "AccurateMix"
-        },
-        {
-          "file": "Guile_fda06412_Chris-Matrix-2020-Mix-CFW-PS3.png",
-          "desc": "Chris Matrix 2020 Mix CFW PS3"
-        },
-        {
-          "file": "Guile_fed105a7_Funk-Mix.png",
-          "desc": "Funk Mix"
         }
       ]
     },
@@ -11021,6 +10589,10 @@
           "desc": "EMVC2"
         },
         {
+          "file": "Iceman_828662b5_SLJTO-icemanlkremake.png",
+          "desc": "SLJTO icemanlkremake"
+        },
+        {
           "file": "Iceman_855851a4_GoldmanJaqs-UK-Rebirth.png",
           "desc": "GoldmanJaqs UK Rebirth"
         },
@@ -11095,6 +10667,14 @@
         {
           "file": "Iceman_c744a7aa_Goon-Mix-Vol-2.png",
           "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Iceman_c851357c_SLJTO-icemanmoviesorta.png",
+          "desc": "SLJTO icemanmoviesorta"
+        },
+        {
+          "file": "Iceman_c962caf8_SLJTO-fireman.png",
+          "desc": "SLJTO fireman"
         },
         {
           "file": "Iceman_d0561450_Goon-Mix-Vol-2.png",
@@ -11377,6 +10957,10 @@
           "desc": "46848d58_Funk Mix"
         },
         {
+          "file": "Iron_Man_4aa40f84_SLJTO-comicironman.png",
+          "desc": "4aa40f84_SLJTO comicironman"
+        },
+        {
           "file": "Iron_Man_52182dbe_80s-mix-vol-1.png",
           "desc": "52182dbe_80s mix vol 1"
         },
@@ -11387,6 +10971,10 @@
         {
           "file": "Iron_Man_55ead6eb_Vanilla-MvC2-OST.png",
           "desc": "55ead6eb_Vanilla MvC2 OST"
+        },
+        {
+          "file": "Iron_Man_5934c5c8_SLJTO-yellomvc3im.png",
+          "desc": "5934c5c8_SLJTO yellomvc3im"
         },
         {
           "file": "Iron_Man_5a42e7be_Awesome-Mix-Vol-2.png",
@@ -11509,12 +11097,20 @@
           "desc": "9a0d1a11_Man"
         },
         {
+          "file": "Iron_Man_a00d5c5b_SLJTO-silvacentruai.png",
+          "desc": "a00d5c5b_SLJTO silvacentruai"
+        },
+        {
           "file": "Iron_Man_a093e81d_Evo2007.png",
           "desc": "a093e81d_Evo2007"
         },
         {
           "file": "Iron_Man_a1870b35_MvC2-Stock-BGM-Custom-Colors.png",
           "desc": "a1870b35_MvC2 Stock BGM Custom Colors"
+        },
+        {
+          "file": "Iron_Man_a1ab86b1_SLJTO-mcuironman.png",
+          "desc": "a1ab86b1_SLJTO mcuironman"
         },
         {
           "file": "Iron_Man_a2758975_MvC2-Stock-BGM-Custom-Colors.png",
@@ -11613,6 +11209,10 @@
           "desc": "c6cecf17_brexit mix"
         },
         {
+          "file": "Iron_Man_c6d2a529_SLJTO-ironmachine.png",
+          "desc": "c6d2a529_SLJTO ironmachine"
+        },
+        {
           "file": "Iron_Man_cc8216c5_GoldmanJaqs-UK-Rebirth.png",
           "desc": "cc8216c5_GoldmanJaqs UK Rebirth"
         },
@@ -11679,6 +11279,10 @@
         {
           "file": "Iron_Man_da7bbbc8_Dolor.png",
           "desc": "da7bbbc8_Dolor"
+        },
+        {
+          "file": "Iron_Man_db0b2cb0_SLJTO-stealth-ironmna.png",
+          "desc": "db0b2cb0_SLJTO stealth ironmna"
         },
         {
           "file": "Iron_Man_dbc96e3f_Capcom-Classics-Mix-Vol-2.png",
@@ -12729,6 +12333,10 @@
         {
           "file": "Juggernaut_35264fec_Goon-Mix-Ver-B.png",
           "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Juggernaut_385d23bd_SLJTO-movieishjugger.png",
+          "desc": "SLJTO movieishjugger"
         },
         {
           "file": "Juggernaut_3a1a52d5_JW-mischen-mix-X2-HP.png",
@@ -13789,6 +13397,10 @@
           "desc": "EMP Matrix"
         },
         {
+          "file": "Magneto_261e7df8_SLJTO-magnetoremake.png",
+          "desc": "SLJTO magnetoremake"
+        },
+        {
           "file": "Magneto_28b6f8af_Changon-Mix.png",
           "desc": "Changon Mix"
         },
@@ -14275,6 +13887,10 @@
         {
           "file": "Magneto_ee0fb0e2_cruzial-mix.png",
           "desc": "cruzial mix"
+        },
+        {
+          "file": "Magneto_ef001978_SLJTO-ljneto.png",
+          "desc": "SLJTO ljneto"
         },
         {
           "file": "Magneto_f2e5897e_MvC2-Stock-BGM-Custom-Colors.png",
@@ -20659,6 +20275,10 @@
           "desc": "JW mischen mix X2 A1"
         },
         {
+          "file": "Shuma-Gorath_09be2484_SLJTO-HP.png",
+          "desc": "SLJTO HP"
+        },
+        {
           "file": "Shuma-Gorath_0b5ab2a7_JW-mischen-mix-X2-HP.png",
           "desc": "JW mischen mix X2 HP"
         },
@@ -20673,6 +20293,10 @@
         {
           "file": "Shuma-Gorath_a0e6ba8b_JW-mischen-mix-X2-HK.png",
           "desc": "JW mischen mix X2 HK"
+        },
+        {
+          "file": "Shuma-Gorath_ee658209_SLJTO-redshuma.png",
+          "desc": "SLJTO redshuma"
         },
         {
           "file": "Shuma-Gorath_f8d796ab_JW-mischen-mix-X2-LK.png",
@@ -21757,8 +21381,28 @@
           "desc": "JW mischen mix X2 HK"
         },
         {
+          "file": "Spider-Man_30cdc0c4_SLJTO-orangeandteal.png",
+          "desc": "SLJTO orangeandteal"
+        },
+        {
+          "file": "Spider-Man_48b56a7e_SLJTO-yellowandblue.png",
+          "desc": "SLJTO yellowandblue"
+        },
+        {
+          "file": "Spider-Man_57d08ea3_SLJTO-yellowandteal.png",
+          "desc": "SLJTO yellowandteal"
+        },
+        {
           "file": "Spider-Man_755b602a_JW-mischen-mix-X2-LK.png",
           "desc": "JW mischen mix X2 LK"
+        },
+        {
+          "file": "Spider-Man_bf39046b_SLJTO-Creamandred.png",
+          "desc": "SLJTO Creamandred"
+        },
+        {
+          "file": "Spider-Man_c67719c3_SLJTO-creamandorange.png",
+          "desc": "SLJTO creamandorange"
         },
         {
           "file": "Spider-Man_cb4f2d17_JW-mischen-mix-X2-A1.png",
@@ -21767,6 +21411,10 @@
         {
           "file": "Spider-Man_d9376a6c_JW-mischen-mix-X2-A2.png",
           "desc": "JW mischen mix X2 A2"
+        },
+        {
+          "file": "Spider-Man_fafd497e_SLJTO-blackandorange.png",
+          "desc": "SLJTO blackandorange"
         },
         {
           "file": "Spider_Man_01d9c07f_EMP-Matrix.png",
@@ -22295,6 +21943,10 @@
         {
           "file": "Spiral_1c8ea875_Freq-mix.png",
           "desc": "Freq mix"
+        },
+        {
+          "file": "Spiral_1df44823_SLJTO-spiral.png",
+          "desc": "SLJTO spiral"
         },
         {
           "file": "Spiral_1ef45bdd_DEFAULTMIX-by-chun.png",
@@ -26209,6 +25861,10 @@
           "desc": "03616931_JW mischen mix X2 LP"
         },
         {
+          "file": "War_Machine_03f9ad71_SLJTO-armor1ironman.png",
+          "desc": "03f9ad71_SLJTO armor1ironman"
+        },
+        {
           "file": "War_Machine_05400925_JW-mischen-mix-X2-HP.png",
           "desc": "05400925_JW mischen mix X2 HP"
         },
@@ -26309,6 +25965,10 @@
           "desc": "4fa274bb_Red"
         },
         {
+          "file": "War_Machine_504ac795_SLJTO-personalwamma.png",
+          "desc": "504ac795_SLJTO personalwamma"
+        },
+        {
           "file": "War_Machine_519aa9f9_Goon-Mix-Vol-2.png",
           "desc": "519aa9f9_Goon Mix Vol 2"
         },
@@ -26331,6 +25991,10 @@
         {
           "file": "War_Machine_582557e7_MvC2-GrecoMix-NoMusic.png",
           "desc": "582557e7_MvC2 GrecoMix NoMusic"
+        },
+        {
+          "file": "War_Machine_583b4428_SLJTO-ionnowman.png",
+          "desc": "583b4428_SLJTO ionnowman"
         },
         {
           "file": "War_Machine_59046b48_GoldmanJaqs-UK-Rebirth.png",
@@ -26409,6 +26073,10 @@
           "desc": "93c5ae15_Awesome Mix Vol 2"
         },
         {
+          "file": "War_Machine_998e79e4_SLJTO-ironmanremake.png",
+          "desc": "998e79e4_SLJTO ironmanremake"
+        },
+        {
           "file": "War_Machine_a79ca142_EMVC2.png",
           "desc": "a79ca142_EMVC2"
         },
@@ -26445,8 +26113,16 @@
           "desc": "beb5eac3_Dave s 5th Mix"
         },
         {
+          "file": "War_Machine_c3f51522_SLJTO-warmachineironman.png",
+          "desc": "c3f51522_SLJTO warmachineironman"
+        },
+        {
           "file": "War_Machine_c6242d1e_80s-mix-vol-1.png",
           "desc": "c6242d1e_80s mix vol 1"
+        },
+        {
+          "file": "War_Machine_cdb68add_SLJTO-mcuwaema.png",
+          "desc": "cdb68add_SLJTO mcuwaema"
         },
         {
           "file": "War_Machine_cee97581_Vanilla-MvC2-OST.png",
@@ -26669,6 +26345,10 @@
         {
           "file": "Wolverine_1f7b3e3c_MVC2-Funk-Mix.png",
           "desc": "MVC2 Funk Mix"
+        },
+        {
+          "file": "Wolverine_211e8806_SLJTO-wolverineremake.png",
+          "desc": "SLJTO wolverineremake"
         },
         {
           "file": "Wolverine_2c85512b_EMVC2.png",
@@ -27109,8 +26789,16 @@
           "desc": "Claw_0f4992db_Capcom Classics Mix MvC2"
         },
         {
+          "file": "Wolverine_Bone_Claw_0ffd0985_SLJTO-reddverine.png",
+          "desc": "Claw_0ffd0985_SLJTO reddverine"
+        },
+        {
           "file": "Wolverine_Bone_Claw_10a8349d_MVC2-Funk-Mix.png",
           "desc": "Claw_10a8349d_MVC2 Funk Mix"
+        },
+        {
+          "file": "Wolverine_Bone_Claw_128586f4_SLJTO-Bonerine-A2.png",
+          "desc": "Claw_128586f4_SLJTO Bonerine A2"
         },
         {
           "file": "Wolverine_Bone_Claw_14e5db7b_MVC2-Funk-Mix.png",
@@ -27159,6 +26847,10 @@
         {
           "file": "Wolverine_Bone_Claw_623bb472_Goon-Mix-Vol-2.png",
           "desc": "Claw_623bb472_Goon Mix Vol 2"
+        },
+        {
+          "file": "Wolverine_Bone_Claw_66e1fa64_SLJTO-orangeandredbonie.png",
+          "desc": "Claw_66e1fa64_SLJTO orangeandredbonie"
         },
         {
           "file": "Wolverine_Bone_Claw_74ec1132_Apollo-Mix-v1.png",
@@ -27585,7 +27277,7 @@
       ]
     }
   ],
-  "totalCharacters": 56,
-  "totalPoses": 716,
-  "totalSkins": 4938
+  "totalCharacters": 55,
+  "totalPoses": 694,
+  "totalSkins": 4919
 }
