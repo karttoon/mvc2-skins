@@ -9473,6 +9473,474 @@
       ]
     },
     {
+      "name": "Guile",
+      "displayName": "Guile",
+      "skinFolder": "Guile",
+      "numRows": 1,
+      "npzWidth": 1017,
+      "npzHeight": 240,
+      "poses": [
+        {
+          "file": "Guile_00.png",
+          "index": 0,
+          "bounds": [
+            0,
+            141,
+            81,
+            240
+          ]
+        },
+        {
+          "file": "Guile_01.png",
+          "index": 1,
+          "bounds": [
+            6,
+            11,
+            92,
+            135
+          ]
+        },
+        {
+          "file": "Guile_02.png",
+          "index": 2,
+          "bounds": [
+            93,
+            130,
+            177,
+            240
+          ]
+        },
+        {
+          "file": "Guile_03.png",
+          "index": 3,
+          "bounds": [
+            100,
+            15,
+            181,
+            127
+          ]
+        },
+        {
+          "file": "Guile_04.png",
+          "index": 4,
+          "bounds": [
+            158,
+            138,
+            263,
+            240
+          ]
+        },
+        {
+          "file": "Guile_05.png",
+          "index": 5,
+          "bounds": [
+            188,
+            44,
+            336,
+            129
+          ]
+        },
+        {
+          "file": "Guile_06.png",
+          "index": 6,
+          "bounds": [
+            266,
+            124,
+            341,
+            240
+          ]
+        },
+        {
+          "file": "Guile_07.png",
+          "index": 7,
+          "bounds": [
+            328,
+            15,
+            467,
+            115
+          ]
+        },
+        {
+          "file": "Guile_08.png",
+          "index": 8,
+          "bounds": [
+            343,
+            146,
+            451,
+            240
+          ]
+        },
+        {
+          "file": "Guile_09.png",
+          "index": 9,
+          "bounds": [
+            435,
+            94,
+            492,
+            166
+          ]
+        },
+        {
+          "file": "Guile_10.png",
+          "index": 10,
+          "bounds": [
+            458,
+            154,
+            551,
+            240
+          ]
+        },
+        {
+          "file": "Guile_11.png",
+          "index": 11,
+          "bounds": [
+            504,
+            44,
+            648,
+            121
+          ]
+        },
+        {
+          "file": "Guile_12.png",
+          "index": 12,
+          "bounds": [
+            549,
+            115,
+            699,
+            184
+          ]
+        },
+        {
+          "file": "Guile_13.png",
+          "index": 13,
+          "bounds": [
+            553,
+            190,
+            672,
+            240
+          ]
+        },
+        {
+          "file": "Guile_14.png",
+          "index": 14,
+          "bounds": [
+            649,
+            72,
+            721,
+            143
+          ]
+        },
+        {
+          "file": "Guile_15.png",
+          "index": 15,
+          "bounds": [
+            676,
+            141,
+            770,
+            240
+          ]
+        },
+        {
+          "file": "Guile_16.png",
+          "index": 16,
+          "bounds": [
+            722,
+            0,
+            795,
+            127
+          ]
+        },
+        {
+          "file": "Guile_17.png",
+          "index": 17,
+          "bounds": [
+            781,
+            127,
+            866,
+            240
+          ]
+        },
+        {
+          "file": "Guile_18.png",
+          "index": 18,
+          "bounds": [
+            805,
+            0,
+            904,
+            121
+          ]
+        },
+        {
+          "file": "Guile_19.png",
+          "index": 19,
+          "bounds": [
+            853,
+            173,
+            1017,
+            240
+          ]
+        },
+        {
+          "file": "Guile_20.png",
+          "index": 20,
+          "bounds": [
+            880,
+            119,
+            1017,
+            185
+          ]
+        },
+        {
+          "file": "Guile_21.png",
+          "index": 21,
+          "bounds": [
+            898,
+            0,
+            1017,
+            119
+          ]
+        }
+      ],
+      "skins": [
+        {
+          "file": "Guile_000d3f92_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Guile_0067f373_EMP-Matrix.png",
+          "desc": "EMP Matrix"
+        },
+        {
+          "file": "Guile_0318125b_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Guile_265f03ab.png",
+          "desc": "265f03ab"
+        },
+        {
+          "file": "Guile_2bc25370_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Guile_2f31dc16_EMP-Matrix.png",
+          "desc": "EMP Matrix"
+        },
+        {
+          "file": "Guile_30820b12_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Guile_3096e0a0_JW-mischen-mix-X2-LK.png",
+          "desc": "JW mischen mix X2 LK"
+        },
+        {
+          "file": "Guile_34fa799e_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Guile_3691467c_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Guile_3be09adc_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Guile_3f937727_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Guile_4507e73e_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Guile_46dbf896_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Guile_472bd933_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Guile_496f9e4e_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Guile_4c1ddad1_RELOADED.png",
+          "desc": "RELOADED"
+        },
+        {
+          "file": "Guile_54a6c962_Changon-Mix.png",
+          "desc": "Changon Mix"
+        },
+        {
+          "file": "Guile_5828a5f1_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Guile_5de07134_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Guile_6347fcee_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Guile_68c1f7bf_DEFAULTMIX-by-chun.png",
+          "desc": "DEFAULTMIX by chun"
+        },
+        {
+          "file": "Guile_6a8fea4a_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Guile_6c95d564_Dave-s-5th-Mix.png",
+          "desc": "Dave s 5th Mix"
+        },
+        {
+          "file": "Guile_76fdf6a9_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Guile_77b9a290_JW-mischen-mix-X2-LP.png",
+          "desc": "JW mischen mix X2 LP"
+        },
+        {
+          "file": "Guile_7d59e980_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Guile_7ea9559d_Funk-Mix.png",
+          "desc": "Funk Mix"
+        },
+        {
+          "file": "Guile_860f620a_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Guile_8ad67ea0_JW-mischen-mix-X2-A1.png",
+          "desc": "JW mischen mix X2 A1"
+        },
+        {
+          "file": "Guile_8b648065_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Guile_918d234e_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Guile_9719bdd0_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Guile_9b66c2dc_EroticJoshMix-Vol1.png",
+          "desc": "EroticJoshMix Vol1"
+        },
+        {
+          "file": "Guile_9fcdcc35_Awesome-Mix-Vol-2.png",
+          "desc": "Awesome Mix Vol 2"
+        },
+        {
+          "file": "Guile_b189900f_EMP-Matrix.png",
+          "desc": "EMP Matrix"
+        },
+        {
+          "file": "Guile_b4bd72d4_EMVC2.png",
+          "desc": "EMVC2"
+        },
+        {
+          "file": "Guile_b84e84f0_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Guile_c420f9ce_JW-mischen-mix-X2-A2.png",
+          "desc": "JW mischen mix X2 A2"
+        },
+        {
+          "file": "Guile_c51e7a8b_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Guile_c70ec482_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Guile_c810525d_80s-mix-vol-1.png",
+          "desc": "80s mix vol 1"
+        },
+        {
+          "file": "Guile_c82aa672_JW-mischen-mix-X2-HK.png",
+          "desc": "JW mischen mix X2 HK"
+        },
+        {
+          "file": "Guile_c9f69edb_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Guile_d21e6206_JW-mischen-mix-X2-HP.png",
+          "desc": "JW mischen mix X2 HP"
+        },
+        {
+          "file": "Guile_d8846809_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Guile_e0969801_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Guile_e1cf1709_Goon-Mix-Vol-2.png",
+          "desc": "Goon Mix Vol 2"
+        },
+        {
+          "file": "Guile_e4effe16_Freq-mix.png",
+          "desc": "Freq mix"
+        },
+        {
+          "file": "Guile_e87e54c3_GoldmanJaqs-UK-Rebirth.png",
+          "desc": "GoldmanJaqs UK Rebirth"
+        },
+        {
+          "file": "Guile_ef8f4f2e_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Guile_f0a982e9_BerlinBumble-Mix.png",
+          "desc": "BerlinBumble Mix"
+        },
+        {
+          "file": "Guile_f0bb6567_Vanilla-MvC2-OST.png",
+          "desc": "Vanilla MvC2 OST"
+        },
+        {
+          "file": "Guile_f4dd05f7_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Guile_f4fb3a5e_Evo2007.png",
+          "desc": "Evo2007"
+        },
+        {
+          "file": "Guile_f91229c9_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Guile_fbca8ffe_AccurateMix.png",
+          "desc": "AccurateMix"
+        },
+        {
+          "file": "Guile_fda06412_Chris-Matrix-2020-Mix-CFW-PS3.png",
+          "desc": "Chris Matrix 2020 Mix CFW PS3"
+        },
+        {
+          "file": "Guile_fed105a7_Funk-Mix.png",
+          "desc": "Funk Mix"
+        }
+      ]
+    },
+    {
       "name": "Hayato",
       "displayName": "Hayato",
       "skinFolder": "Hayato",
@@ -27277,7 +27745,7 @@
       ]
     }
   ],
-  "totalCharacters": 55,
-  "totalPoses": 694,
-  "totalSkins": 4919
+  "totalCharacters": 56,
+  "totalPoses": 716,
+  "totalSkins": 4978
 }
