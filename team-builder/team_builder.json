@@ -9263,8 +9263,8 @@
           "desc": "Funk Mix"
         },
         {
-          "file": "Gambit_3a10533d.png",
-          "desc": "3a10533d"
+          "file": "Gambit_3738d220.png",
+          "desc": "3738d220"
         },
         {
           "file": "Gambit_3fb3478e_Joder.png",
@@ -10885,10 +10885,6 @@
           "desc": "Goon Mix Vol 2"
         },
         {
-          "file": "Iceman_05316cb8.png",
-          "desc": "05316cb8"
-        },
-        {
           "file": "Iceman_056550de_RELOADED.png",
           "desc": "RELOADED"
         },
@@ -10949,10 +10945,6 @@
           "desc": "Goon Mix Ver B"
         },
         {
-          "file": "Iceman_2cdb6784_Gold.png",
-          "desc": "Gold"
-        },
-        {
           "file": "Iceman_315457f9_MvC2-GrecoMix-NoMusic.png",
           "desc": "MvC2 GrecoMix NoMusic"
         },
@@ -10995,6 +10987,10 @@
         {
           "file": "Iceman_4a551be6_Goldman.png",
           "desc": "Goldman"
+        },
+        {
+          "file": "Iceman_4c95d3d3.png",
+          "desc": "4c95d3d3"
         },
         {
           "file": "Iceman_4e3dd50f_DEFAULTMIX-by-chun.png",
@@ -11091,6 +11087,10 @@
         {
           "file": "Iceman_984f01db_Goon-Mix-Ver-B.png",
           "desc": "Goon Mix Ver B"
+        },
+        {
+          "file": "Iceman_98641fac_Gold.png",
+          "desc": "Gold"
         },
         {
           "file": "Iceman_9a1acc8d_EMVC2.png",
@@ -22677,6 +22677,10 @@
           "desc": "Evo2007"
         },
         {
+          "file": "Spiral_a769ce41.png",
+          "desc": "a769ce41"
+        },
+        {
           "file": "Spiral_a831df60_EMVC2.png",
           "desc": "EMVC2"
         },
@@ -22723,10 +22727,6 @@
         {
           "file": "Spiral_b0fb6669_EroticJoshMix-Vol1.png",
           "desc": "EroticJoshMix Vol1"
-        },
-        {
-          "file": "Spiral_b1b8be10.png",
-          "desc": "b1b8be10"
         },
         {
           "file": "Spiral_b23758d3_EMP-Matrix.png",
@@ -22837,10 +22837,6 @@
           "desc": "BerlinBumble Mix"
         },
         {
-          "file": "Spiral_d1eb9b53.png",
-          "desc": "d1eb9b53"
-        },
-        {
           "file": "Spiral_d369a4dc_Spirallp.png",
           "desc": "Spirallp"
         },
@@ -22879,6 +22875,10 @@
         {
           "file": "Spiral_e289543c_CAPCOM-CLASSICS-MEGAMIX-by.png",
           "desc": "CAPCOM CLASSICS MEGAMIX by"
+        },
+        {
+          "file": "Spiral_e50566d0.png",
+          "desc": "e50566d0"
         },
         {
           "file": "Spiral_e7df71a1_80s-mix-vol-1.png",
