@@ -24863,10 +24863,6 @@
           "desc": "Goon Mix Vol 2"
         },
         {
-          "file": "Thanos_675383e4.png",
-          "desc": "675383e4"
-        },
-        {
           "file": "Thanos_675383e4_JW-mischen-mix-X2-LP.png",
           "desc": "JW mischen mix X2 LP"
         },
@@ -27879,5 +27875,5 @@
   ],
   "totalCharacters": 56,
   "totalPoses": 716,
-  "totalSkins": 5011
+  "totalSkins": 5010
 }
