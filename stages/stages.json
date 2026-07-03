@@ -1,0 +1,384 @@
+{
+ "version": 1,
+ "note": "MvC2 stage gallery. mod/def media are bare filenames served from the stages/ CDN folder; tex is a bare filename served from stage-textures/; yt is a full YouTube URL filled per-stage after upload.",
+ "stages": [
+  {
+   "id": "00",
+   "n": "Airship Stage (Day, Flying)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_00_thumb.jpg",
+    "c": "m_00_c.jpg",
+    "l": "m_00_l.jpg",
+    "r": "m_00_r.jpg",
+    "v": "m_00_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_00_thumb.jpg",
+    "c": "d_00_c.jpg",
+    "l": "d_00_l.jpg",
+    "r": "d_00_r.jpg",
+    "v": "d_00_pan.mp4"
+   },
+   "tex": "m_00_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "0A",
+   "n": "Desert Stage (Blue Sky)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_0A_thumb.jpg",
+    "c": "m_0A_c.jpg",
+    "l": "m_0A_l.jpg",
+    "r": "m_0A_r.jpg",
+    "v": "m_0A_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_0A_thumb.jpg",
+    "c": "d_0A_c.jpg",
+    "l": "d_0A_l.jpg",
+    "r": "d_0A_r.jpg",
+    "v": "d_0A_pan.mp4"
+   },
+   "tex": "m_0A_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "0B",
+   "n": "Training Stage",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_0B_thumb.jpg",
+    "c": "m_0B_c.jpg",
+    "l": "m_0B_l.jpg",
+    "r": "m_0B_r.jpg",
+    "v": "m_0B_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_0B_thumb.jpg",
+    "c": "d_0B_c.jpg",
+    "l": "d_0B_l.jpg",
+    "r": "d_0B_r.jpg",
+    "v": "d_0B_pan.mp4"
+   },
+   "tex": "m_0B_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "0C",
+   "n": "Carnival Stage (Winter/Fall)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_0C_thumb.jpg",
+    "c": "m_0C_c.jpg",
+    "l": "m_0C_l.jpg",
+    "r": "m_0C_r.jpg",
+    "v": "m_0C_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_0C_thumb.jpg",
+    "c": "d_0C_c.jpg",
+    "l": "d_0C_l.jpg",
+    "r": "d_0C_r.jpg",
+    "v": "d_0C_pan.mp4"
+   },
+   "tex": "m_0C_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "0D",
+   "n": "Swamp (Asian)",
+   "st": "done",
+   "mod": {
+    "thumb": "m_0D_thumb.jpg",
+    "c": "m_0D_c.jpg",
+    "l": "m_0D_l.jpg",
+    "r": "m_0D_r.jpg",
+    "v": "m_0D_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_0D_thumb.jpg",
+    "c": "d_0D_c.jpg",
+    "l": "d_0D_l.jpg",
+    "r": "d_0D_r.jpg",
+    "v": "d_0D_pan.mp4"
+   },
+   "tex": "m_0D_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "0E",
+   "n": "Cave Stage (Lava)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_0E_thumb.jpg",
+    "c": "m_0E_c.jpg",
+    "l": "m_0E_l.jpg",
+    "r": "m_0E_r.jpg",
+    "v": "m_0E_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_0E_thumb.jpg",
+    "c": "d_0E_c.jpg",
+    "l": "d_0E_l.jpg",
+    "r": "d_0E_r.jpg",
+    "v": "d_0E_pan.mp4"
+   },
+   "tex": "m_0E_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "0F",
+   "n": "Clocktower Stage (Snowy)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_0F_thumb.jpg",
+    "c": "m_0F_c.jpg",
+    "l": "m_0F_l.jpg",
+    "r": "m_0F_r.jpg",
+    "v": "m_0F_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_0F_thumb.jpg",
+    "c": "d_0F_c.jpg",
+    "l": "d_0F_l.jpg",
+    "r": "d_0F_r.jpg",
+    "v": "d_0F_pan.mp4"
+   },
+   "tex": "m_0F_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "01",
+   "n": "Desert Stage (Orange Sky)",
+   "st": "done",
+   "mod": {
+    "thumb": "m_01_thumb.jpg",
+    "c": "m_01_c.jpg",
+    "l": "m_01_l.jpg",
+    "r": "m_01_r.jpg",
+    "v": "m_01_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_01_thumb.jpg",
+    "c": "d_01_c.jpg",
+    "l": "d_01_l.jpg",
+    "r": "d_01_r.jpg",
+    "v": "d_01_pan.mp4"
+   },
+   "tex": "m_01_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "02",
+   "n": "Factory Stage",
+   "st": "done",
+   "mod": {
+    "thumb": "m_02_thumb.jpg",
+    "c": "m_02_c.jpg",
+    "l": "m_02_l.jpg",
+    "r": "m_02_r.jpg",
+    "v": "m_02_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_02_thumb.jpg",
+    "c": "d_02_c.jpg",
+    "l": "d_02_l.jpg",
+    "r": "d_02_r.jpg",
+    "v": "d_02_pan.mp4"
+   },
+   "tex": "m_02_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "03",
+   "n": "Carnival Stage (Summer/Spring)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_03_thumb.jpg",
+    "c": "m_03_c.jpg",
+    "l": "m_03_l.jpg",
+    "r": "m_03_r.jpg",
+    "v": "m_03_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_03_thumb.jpg",
+    "c": "d_03_c.jpg",
+    "l": "d_03_l.jpg",
+    "r": "d_03_r.jpg",
+    "v": "d_03_pan.mp4"
+   },
+   "tex": "m_03_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "04",
+   "n": "Swamp Stage",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_04_thumb.jpg",
+    "c": "m_04_c.jpg",
+    "l": "m_04_l.jpg",
+    "r": "m_04_r.jpg",
+    "v": "m_04_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_04_thumb.jpg",
+    "c": "d_04_c.jpg",
+    "l": "d_04_l.jpg",
+    "r": "d_04_r.jpg",
+    "v": "d_04_pan.mp4"
+   },
+   "tex": "m_04_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "05",
+   "n": "Cave Stage (Water)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_05_thumb.jpg",
+    "c": "m_05_c.jpg",
+    "l": "m_05_l.jpg",
+    "r": "m_05_r.jpg",
+    "v": "m_05_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_05_thumb.jpg",
+    "c": "d_05_c.jpg",
+    "l": "d_05_l.jpg",
+    "r": "d_05_r.jpg",
+    "v": "d_05_pan.mp4"
+   },
+   "tex": "m_05_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "06",
+   "n": "Clocktower Stage (Clear Sky)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_06_thumb.jpg",
+    "c": "m_06_c.jpg",
+    "l": "m_06_l.jpg",
+    "r": "m_06_r.jpg",
+    "v": "m_06_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_06_thumb.jpg",
+    "c": "d_06_c.jpg",
+    "l": "d_06_l.jpg",
+    "r": "d_06_r.jpg",
+    "v": "d_06_pan.mp4"
+   },
+   "tex": "m_06_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "07",
+   "n": "River on Ice Stage",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_07_thumb.jpg",
+    "c": "m_07_c.jpg",
+    "l": "m_07_l.jpg",
+    "r": "m_07_r.jpg",
+    "v": "m_07_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_07_thumb.jpg",
+    "c": "d_07_c.jpg",
+    "l": "d_07_l.jpg",
+    "r": "d_07_r.jpg",
+    "v": "d_07_pan.mp4"
+   },
+   "tex": "m_07_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "08",
+   "n": "Abyss Stage",
+   "st": "done",
+   "mod": {
+    "thumb": "m_08_thumb.jpg",
+    "c": "m_08_c.jpg",
+    "l": "m_08_l.jpg",
+    "r": "m_08_r.jpg",
+    "v": "m_08_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_08_thumb.jpg",
+    "c": "d_08_c.jpg",
+    "l": "d_08_l.jpg",
+    "r": "d_08_r.jpg",
+    "v": "d_08_pan.mp4"
+   },
+   "tex": "m_08_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "09",
+   "n": "Airship Stage (Night, Floating)",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_09_thumb.jpg",
+    "c": "m_09_c.jpg",
+    "l": "m_09_l.jpg",
+    "r": "m_09_r.jpg",
+    "v": "m_09_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_09_thumb.jpg",
+    "c": "d_09_c.jpg",
+    "l": "d_09_l.jpg",
+    "r": "d_09_r.jpg",
+    "v": "d_09_pan.mp4"
+   },
+   "tex": "m_09_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "10",
+   "n": "River on Raft Stage",
+   "st": "wip",
+   "mod": {
+    "thumb": "m_10_thumb.jpg",
+    "c": "m_10_c.jpg",
+    "l": "m_10_l.jpg",
+    "r": "m_10_r.jpg",
+    "v": "m_10_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_10_thumb.jpg",
+    "c": "d_10_c.jpg",
+    "l": "d_10_l.jpg",
+    "r": "d_10_r.jpg",
+    "v": "d_10_pan.mp4"
+   },
+   "tex": "m_10_tex.BIN",
+   "yt": ""
+  },
+  {
+   "id": "CV",
+   "n": "CvS2 \u2014 Concrete Rooftop",
+   "st": "done",
+   "mod": {
+    "thumb": "m_CV_thumb.jpg",
+    "c": "m_CV_c.jpg",
+    "l": "m_CV_l.jpg",
+    "r": "m_CV_r.jpg",
+    "v": "m_CV_pan.mp4"
+   },
+   "def": {
+    "thumb": "d_CV_thumb.jpg",
+    "c": "d_CV_c.jpg",
+    "l": "d_CV_l.jpg",
+    "r": "d_CV_r.jpg",
+    "v": "d_CV_pan.mp4"
+   },
+   "tex": "m_CV_tex.BIN",
+   "yt": ""
+  }
+ ]
+}
