@@ -1,6 +1,6 @@
 {
- "version": 1,
- "note": "MvC2 stage gallery. mod/def media are bare filenames served from the stages/ CDN folder; tex is a bare filename served from stage-textures/; yt is a full YouTube URL filled per-stage after upload.",
+ "version": 2,
+ "note": "MvC2 stage gallery. stages[] media are bare filenames served from the stages/ CDN folder; tex from stage-textures/. community[] holds user-submitted stage edits, keyed by sub = md5(texture .BIN)[:8], with files named c_{stageId}_{sub}_*.",
  "stages": [
   {
    "id": "00",
@@ -21,7 +21,7 @@
     "v": "d_00_pan.mp4"
    },
    "tex": "m_00_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "0A",
@@ -42,7 +42,7 @@
     "v": "d_0A_pan.mp4"
    },
    "tex": "m_0A_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "0B",
@@ -63,7 +63,7 @@
     "v": "d_0B_pan.mp4"
    },
    "tex": "m_0B_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "0C",
@@ -84,7 +84,7 @@
     "v": "d_0C_pan.mp4"
    },
    "tex": "m_0C_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "0D",
@@ -105,7 +105,7 @@
     "v": "d_0D_pan.mp4"
    },
    "tex": "m_0D_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "0E",
@@ -126,7 +126,7 @@
     "v": "d_0E_pan.mp4"
    },
    "tex": "m_0E_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "0F",
@@ -147,7 +147,7 @@
     "v": "d_0F_pan.mp4"
    },
    "tex": "m_0F_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "01",
@@ -168,7 +168,7 @@
     "v": "d_01_pan.mp4"
    },
    "tex": "m_01_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "02",
@@ -189,7 +189,7 @@
     "v": "d_02_pan.mp4"
    },
    "tex": "m_02_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "03",
@@ -210,7 +210,7 @@
     "v": "d_03_pan.mp4"
    },
    "tex": "m_03_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "04",
@@ -231,7 +231,7 @@
     "v": "d_04_pan.mp4"
    },
    "tex": "m_04_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "05",
@@ -252,7 +252,7 @@
     "v": "d_05_pan.mp4"
    },
    "tex": "m_05_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "06",
@@ -273,7 +273,7 @@
     "v": "d_06_pan.mp4"
    },
    "tex": "m_06_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "07",
@@ -294,7 +294,7 @@
     "v": "d_07_pan.mp4"
    },
    "tex": "m_07_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "08",
@@ -315,7 +315,7 @@
     "v": "d_08_pan.mp4"
    },
    "tex": "m_08_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "09",
@@ -336,7 +336,7 @@
     "v": "d_09_pan.mp4"
    },
    "tex": "m_09_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "10",
@@ -357,7 +357,7 @@
     "v": "d_10_pan.mp4"
    },
    "tex": "m_10_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
   },
   {
    "id": "CV",
@@ -378,7 +378,21 @@
     "v": "d_CV_pan.mp4"
    },
    "tex": "m_CV_tex.BIN",
-   "yt": ""
+   "author": "karttoon"
+  }
+ ],
+ "community": [
+  {
+   "sub": "68776038",
+   "stageId": "04",
+   "author": "herbderken",
+   "thumb": "c_04_68776038_thumb.jpg",
+   "c": "c_04_68776038_c.jpg",
+   "l": "c_04_68776038_l.jpg",
+   "r": "c_04_68776038_r.jpg",
+   "v": "c_04_68776038_pan.mp4",
+   "tex": "c_04_68776038_tex.BIN",
+   "title": "Moonlight"
   }
  ]
 }
