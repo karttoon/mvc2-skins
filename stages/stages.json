@@ -379,7 +379,8 @@
    },
    "tex": "m_CV_tex.BIN",
    "author": "karttoon",
-   "pol": "m_CV_pol.BIN"
+   "pol": "m_CV_pol.BIN",
+   "compareTo": "13250a16"
   }
  ],
  "community": [
