@@ -431,7 +431,7 @@
    "stageId": "01",
    "author": "mv2 spanish AA",
    "title": "Desert Stage (Blue Sky)",
-   "name": "Desert Stage (Blue Sky)",
+   "name": "",
    "thumb": "c_01_1b66fa5c_thumb.jpg",
    "c": "c_01_1b66fa5c_c.jpg",
    "l": "c_01_1b66fa5c_l.jpg",
@@ -626,20 +626,6 @@
    "order": 0
   },
   {
-   "sub": "c9639af1",
-   "stageId": "05",
-   "author": "mv2 spanish AA",
-   "title": "Cave Stage (Lava)",
-   "name": "Cave Stage (Lava)",
-   "thumb": "c_05_c9639af1_thumb.jpg",
-   "c": "c_05_c9639af1_c.jpg",
-   "l": "c_05_c9639af1_l.jpg",
-   "r": "c_05_c9639af1_r.jpg",
-   "v": "c_05_c9639af1_pan.mp4",
-   "tex": "c_05_c9639af1_tex.BIN",
-   "kind": "retexture"
-  },
-  {
    "sub": "eeaebd00",
    "stageId": "05",
    "author": "B604MIX",
@@ -785,7 +771,7 @@
    "stageId": "09",
    "author": "HEARTOFMAHVELV2",
    "title": "Airship Stage (Night)",
-   "name": "Airship Stage (Night)",
+   "name": "",
    "thumb": "c_09_3c4793c3_thumb.jpg",
    "c": "c_09_3c4793c3_c.jpg",
    "l": "c_09_3c4793c3_l.jpg",
