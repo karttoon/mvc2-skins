@@ -413,6 +413,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "3aae69ec",
+   "stageId": "00",
+   "author": "rob2d",
+   "title": "Cardboard Flying Clubhouse",
+   "name": "Cardboard Flying Clubhouse",
+   "thumb": "c_00_3aae69ec_thumb.jpg",
+   "c": "c_00_3aae69ec_c.jpg",
+   "l": "c_00_3aae69ec_l.jpg",
+   "r": "c_00_3aae69ec_r.jpg",
+   "v": "c_00_3aae69ec_pan.mp4",
+   "tex": "c_00_3aae69ec_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "1e9dd808",
    "stageId": "00",
    "author": "herbderken",
@@ -892,6 +906,20 @@
    "r": "c_0B_e1139a7d_r.jpg",
    "v": "c_0B_e1139a7d_pan.mp4",
    "tex": "c_0B_e1139a7d_tex.BIN",
+   "kind": "retexture"
+  },
+  {
+   "sub": "30edaa59",
+   "stageId": "0B",
+   "author": "herbderken",
+   "title": "X-Grid",
+   "name": "X-Grid",
+   "thumb": "c_0B_30edaa59_thumb.jpg",
+   "c": "c_0B_30edaa59_c.jpg",
+   "l": "c_0B_30edaa59_l.jpg",
+   "r": "c_0B_30edaa59_r.jpg",
+   "v": "c_0B_30edaa59_pan.mp4",
+   "tex": "c_0B_30edaa59_tex.BIN",
    "kind": "retexture"
   },
   {
