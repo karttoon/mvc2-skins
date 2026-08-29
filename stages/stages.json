@@ -18,7 +18,9 @@
     "c": "d_00_c.jpg",
     "l": "d_00_l.jpg",
     "r": "d_00_r.jpg",
-    "v": "d_00_pan.mp4"
+    "v": "d_00_pan.mp4",
+    "tex": "d_00_tex.BIN",
+    "pol": "d_00_pol.BIN"
    },
    "tex": "m_00_tex.BIN",
    "author": "karttoon"
@@ -39,7 +41,9 @@
     "c": "d_0A_c.jpg",
     "l": "d_0A_l.jpg",
     "r": "d_0A_r.jpg",
-    "v": "d_0A_pan.mp4"
+    "v": "d_0A_pan.mp4",
+    "tex": "d_0A_tex.BIN",
+    "pol": "d_0A_pol.BIN"
    },
    "tex": "m_0A_tex.BIN",
    "author": "karttoon"
@@ -60,7 +64,9 @@
     "c": "d_0B_c.jpg",
     "l": "d_0B_l.jpg",
     "r": "d_0B_r.jpg",
-    "v": "d_0B_pan.mp4"
+    "v": "d_0B_pan.mp4",
+    "tex": "d_0B_tex.BIN",
+    "pol": "d_0B_pol.BIN"
    },
    "tex": "m_0B_tex.BIN",
    "author": "karttoon"
@@ -81,7 +87,9 @@
     "c": "d_0C_c.jpg",
     "l": "d_0C_l.jpg",
     "r": "d_0C_r.jpg",
-    "v": "d_0C_pan.mp4"
+    "v": "d_0C_pan.mp4",
+    "tex": "d_0C_tex.BIN",
+    "pol": "d_0C_pol.BIN"
    },
    "tex": "m_0C_tex.BIN",
    "author": "karttoon"
@@ -102,7 +110,9 @@
     "c": "d_0D_c.jpg",
     "l": "d_0D_l.jpg",
     "r": "d_0D_r.jpg",
-    "v": "d_0D_pan.mp4"
+    "v": "d_0D_pan.mp4",
+    "tex": "d_0D_tex.BIN",
+    "pol": "d_0D_pol.BIN"
    },
    "tex": "m_0D_tex.BIN",
    "author": "karttoon"
@@ -123,7 +133,9 @@
     "c": "d_0E_c.jpg",
     "l": "d_0E_l.jpg",
     "r": "d_0E_r.jpg",
-    "v": "d_0E_pan.mp4"
+    "v": "d_0E_pan.mp4",
+    "tex": "d_0E_tex.BIN",
+    "pol": "d_0E_pol.BIN"
    },
    "tex": "m_0E_tex.BIN",
    "author": "karttoon"
@@ -144,7 +156,9 @@
     "c": "d_0F_c.jpg",
     "l": "d_0F_l.jpg",
     "r": "d_0F_r.jpg",
-    "v": "d_0F_pan.mp4"
+    "v": "d_0F_pan.mp4",
+    "tex": "d_0F_tex.BIN",
+    "pol": "d_0F_pol.BIN"
    },
    "tex": "m_0F_tex.BIN",
    "author": "karttoon"
@@ -165,7 +179,9 @@
     "c": "d_01_c.jpg",
     "l": "d_01_l.jpg",
     "r": "d_01_r.jpg",
-    "v": "d_01_pan.mp4"
+    "v": "d_01_pan.mp4",
+    "tex": "d_01_tex.BIN",
+    "pol": "d_01_pol.BIN"
    },
    "tex": "m_01_tex.BIN",
    "author": "karttoon"
@@ -186,7 +202,9 @@
     "c": "d_02_c.jpg",
     "l": "d_02_l.jpg",
     "r": "d_02_r.jpg",
-    "v": "d_02_pan.mp4"
+    "v": "d_02_pan.mp4",
+    "tex": "d_02_tex.BIN",
+    "pol": "d_02_pol.BIN"
    },
    "tex": "m_02_tex.BIN",
    "author": "karttoon"
@@ -207,7 +225,9 @@
     "c": "d_03_c.jpg",
     "l": "d_03_l.jpg",
     "r": "d_03_r.jpg",
-    "v": "d_03_pan.mp4"
+    "v": "d_03_pan.mp4",
+    "tex": "d_03_tex.BIN",
+    "pol": "d_03_pol.BIN"
    },
    "tex": "m_03_tex.BIN",
    "author": "karttoon"
@@ -228,7 +248,9 @@
     "c": "d_04_c.jpg",
     "l": "d_04_l.jpg",
     "r": "d_04_r.jpg",
-    "v": "d_04_pan.mp4"
+    "v": "d_04_pan.mp4",
+    "tex": "d_04_tex.BIN",
+    "pol": "d_04_pol.BIN"
    },
    "tex": "m_04_tex.BIN",
    "author": "karttoon"
@@ -249,7 +271,9 @@
     "c": "d_05_c.jpg",
     "l": "d_05_l.jpg",
     "r": "d_05_r.jpg",
-    "v": "d_05_pan.mp4"
+    "v": "d_05_pan.mp4",
+    "tex": "d_05_tex.BIN",
+    "pol": "d_05_pol.BIN"
    },
    "tex": "m_05_tex.BIN",
    "author": "karttoon"
@@ -270,7 +294,9 @@
     "c": "d_06_c.jpg",
     "l": "d_06_l.jpg",
     "r": "d_06_r.jpg",
-    "v": "d_06_pan.mp4"
+    "v": "d_06_pan.mp4",
+    "tex": "d_06_tex.BIN",
+    "pol": "d_06_pol.BIN"
    },
    "tex": "m_06_tex.BIN",
    "author": "karttoon"
@@ -291,7 +317,9 @@
     "c": "d_07_c.jpg",
     "l": "d_07_l.jpg",
     "r": "d_07_r.jpg",
-    "v": "d_07_pan.mp4"
+    "v": "d_07_pan.mp4",
+    "tex": "d_07_tex.BIN",
+    "pol": "d_07_pol.BIN"
    },
    "tex": "m_07_tex.BIN",
    "author": "karttoon"
@@ -312,7 +340,9 @@
     "c": "d_08_c.jpg",
     "l": "d_08_l.jpg",
     "r": "d_08_r.jpg",
-    "v": "d_08_pan.mp4"
+    "v": "d_08_pan.mp4",
+    "tex": "d_08_tex.BIN",
+    "pol": "d_08_pol.BIN"
    },
    "tex": "m_08_tex.BIN",
    "author": "karttoon"
@@ -333,7 +363,9 @@
     "c": "d_09_c.jpg",
     "l": "d_09_l.jpg",
     "r": "d_09_r.jpg",
-    "v": "d_09_pan.mp4"
+    "v": "d_09_pan.mp4",
+    "tex": "d_09_tex.BIN",
+    "pol": "d_09_pol.BIN"
    },
    "tex": "m_09_tex.BIN",
    "author": "karttoon"
@@ -354,7 +386,9 @@
     "c": "d_10_c.jpg",
     "l": "d_10_l.jpg",
     "r": "d_10_r.jpg",
-    "v": "d_10_pan.mp4"
+    "v": "d_10_pan.mp4",
+    "tex": "d_10_tex.BIN",
+    "pol": "d_10_pol.BIN"
    },
    "tex": "m_10_tex.BIN",
    "author": "karttoon"
