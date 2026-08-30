@@ -887,19 +887,18 @@
   },
   {
    "sub": "b6884785",
-   "stageId": "0A",
+   "stageId": "0B",
    "author": "B604MIX",
    "title": "Training Stage",
    "name": "",
-   "thumb": "c_0A_b6884785_thumb.jpg",
-   "c": "c_0A_b6884785_c.jpg",
-   "l": "c_0A_b6884785_l.jpg",
-   "r": "c_0A_b6884785_r.jpg",
-   "v": "c_0A_b6884785_pan.mp4",
-   "tex": "c_0A_b6884785_tex.BIN",
+   "thumb": "c_0B_b6884785_thumb.jpg",
+   "c": "c_0B_b6884785_c.jpg",
+   "l": "c_0B_b6884785_l.jpg",
+   "r": "c_0B_b6884785_r.jpg",
+   "v": "c_0B_b6884785_pan.mp4",
+   "tex": "c_0B_b6884785_tex.BIN",
    "kind": "retexture",
-   "pol": "c_0A_b6884785_pol.BIN",
-   "groupAs": "0B"
+   "pol": "c_0B_b6884785_pol.BIN"
   },
   {
    "sub": "2fa3029f",
