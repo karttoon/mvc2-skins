@@ -1,0 +1,3 @@
+# Stage motion/pan videos are hosted on Cloudflare R2 (see stages/video_manifest.json),
+# not in git. Keeps the deploy's `git add stages/` from re-sweeping them in.
+stages/*.mp4
