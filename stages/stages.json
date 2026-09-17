@@ -646,6 +646,48 @@
    "order": 0
   },
   {
+   "sub": "033f43cb",
+   "stageId": "04",
+   "author": "Neofantomu",
+   "title": "Swamp 1",
+   "name": "Swamp 1",
+   "thumb": "c_04_033f43cb_thumb.jpg",
+   "c": "c_04_033f43cb_c.jpg",
+   "l": "c_04_033f43cb_l.jpg",
+   "r": "c_04_033f43cb_r.jpg",
+   "v": "c_04_033f43cb_pan.mp4",
+   "tex": "c_04_033f43cb_tex.BIN",
+   "kind": "retexture"
+  },
+  {
+   "sub": "f48147b6",
+   "stageId": "04",
+   "author": "Neofantomu",
+   "title": "Swamp 2",
+   "name": "Swamp 2",
+   "thumb": "c_04_f48147b6_thumb.jpg",
+   "c": "c_04_f48147b6_c.jpg",
+   "l": "c_04_f48147b6_l.jpg",
+   "r": "c_04_f48147b6_r.jpg",
+   "v": "c_04_f48147b6_pan.mp4",
+   "tex": "c_04_f48147b6_tex.BIN",
+   "kind": "retexture"
+  },
+  {
+   "sub": "ab5efa8e",
+   "stageId": "04",
+   "author": "Neofantomu",
+   "title": "Swamp 3",
+   "name": "Swamp 3",
+   "thumb": "c_04_ab5efa8e_thumb.jpg",
+   "c": "c_04_ab5efa8e_c.jpg",
+   "l": "c_04_ab5efa8e_l.jpg",
+   "r": "c_04_ab5efa8e_r.jpg",
+   "v": "c_04_ab5efa8e_pan.mp4",
+   "tex": "c_04_ab5efa8e_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "07de9948",
    "stageId": "04",
    "author": "B604MIX",
@@ -998,6 +1040,20 @@
    "tex": "c_0C_ea79d7f3_tex.BIN",
    "kind": "retexture",
    "pol": "c_0C_ea79d7f3_pol.BIN"
+  },
+  {
+   "sub": "dfbab7d3",
+   "stageId": "0C",
+   "author": "Neofantomu",
+   "title": "Servbot Land",
+   "name": "Servbot Land",
+   "thumb": "c_0C_dfbab7d3_thumb.jpg",
+   "c": "c_0C_dfbab7d3_c.jpg",
+   "l": "c_0C_dfbab7d3_l.jpg",
+   "r": "c_0C_dfbab7d3_r.jpg",
+   "v": "c_0C_dfbab7d3_pan.mp4",
+   "tex": "c_0C_dfbab7d3_tex.BIN",
+   "kind": "retexture"
   },
   {
    "sub": "d34f63b4",
