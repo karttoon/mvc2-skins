@@ -1056,6 +1056,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "b318a333",
+   "stageId": "0D",
+   "author": "Neofantomu",
+   "title": "Peaches Castle",
+   "name": "Peaches Castle",
+   "thumb": "c_0D_b318a333_thumb.jpg",
+   "c": "c_0D_b318a333_c.jpg",
+   "l": "c_0D_b318a333_l.jpg",
+   "r": "c_0D_b318a333_r.jpg",
+   "v": "c_0D_b318a333_pan.mp4",
+   "tex": "c_0D_b318a333_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "d34f63b4",
    "stageId": "0D",
    "author": "B604MIX",
