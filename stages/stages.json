@@ -1500,22 +1500,6 @@
    "game": "Marvel Super Heroes"
   },
   {
-   "sub": "71737db1",
-   "stageId": "XX",
-   "author": "TVIndustries",
-   "title": "MSHvSF - Apocalypse",
-   "name": "Apocalypse",
-   "thumb": "c_XX_71737db1_thumb.jpg",
-   "c": "c_XX_71737db1_c.jpg",
-   "l": "c_XX_71737db1_l.jpg",
-   "r": "c_XX_71737db1_r.jpg",
-   "v": "c_XX_71737db1_pan.mp4",
-   "tex": "c_XX_71737db1_tex.BIN",
-   "kind": "port",
-   "pol": "c_XX_71737db1_pol.BIN",
-   "game": "Marvel Super Heroes vs. Street Fighter"
-  },
-  {
    "sub": "778d15ef",
    "stageId": "XX",
    "author": "karttoon",
@@ -1724,22 +1708,6 @@
    "game": "Marvel Super Heroes vs. Street Fighter"
   },
   {
-   "sub": "43cc5f5e",
-   "stageId": "XX",
-   "author": "TVIndustries",
-   "title": "MSHvSF - Temple of Fists",
-   "name": "Temple of Fists",
-   "thumb": "c_XX_43cc5f5e_thumb.jpg",
-   "c": "c_XX_43cc5f5e_c.jpg",
-   "l": "c_XX_43cc5f5e_l.jpg",
-   "r": "c_XX_43cc5f5e_r.jpg",
-   "v": "c_XX_43cc5f5e_pan.mp4",
-   "tex": "c_XX_43cc5f5e_tex.BIN",
-   "kind": "port",
-   "pol": "c_XX_43cc5f5e_pol.BIN",
-   "game": "Marvel Super Heroes vs. Street Fighter"
-  },
-  {
    "sub": "b71c9bf7",
    "stageId": "XX",
    "author": "karttoon",
@@ -1772,6 +1740,38 @@
    "game": "Marvel Super Heroes vs. Street Fighter"
   },
   {
+   "sub": "71737db1",
+   "stageId": "XX",
+   "author": "TVIndustries",
+   "title": "MSHvSF - Apocalypse",
+   "name": "Apocalypse",
+   "thumb": "c_XX_71737db1_thumb.jpg",
+   "c": "c_XX_71737db1_c.jpg",
+   "l": "c_XX_71737db1_l.jpg",
+   "r": "c_XX_71737db1_r.jpg",
+   "v": "c_XX_71737db1_pan.mp4",
+   "tex": "c_XX_71737db1_tex.BIN",
+   "kind": "port",
+   "pol": "c_XX_71737db1_pol.BIN",
+   "game": "Marvel Super Heroes vs. Street Fighter"
+  },
+  {
+   "sub": "43cc5f5e",
+   "stageId": "XX",
+   "author": "TVIndustries",
+   "title": "MSHvSF - Temple of Fists",
+   "name": "Temple of Fists",
+   "thumb": "c_XX_43cc5f5e_thumb.jpg",
+   "c": "c_XX_43cc5f5e_c.jpg",
+   "l": "c_XX_43cc5f5e_l.jpg",
+   "r": "c_XX_43cc5f5e_r.jpg",
+   "v": "c_XX_43cc5f5e_pan.mp4",
+   "tex": "c_XX_43cc5f5e_tex.BIN",
+   "kind": "port",
+   "pol": "c_XX_43cc5f5e_pol.BIN",
+   "game": "Marvel Super Heroes vs. Street Fighter"
+  },
+  {
    "sub": "36ed4a80",
    "stageId": "XX",
    "author": "karttoon",
@@ -1801,22 +1801,6 @@
    "tex": "c_XX_48be3eea_tex.BIN",
    "pol": "c_XX_48be3eea_pol.BIN",
    "kind": "port",
-   "game": "Marvel vs. Capcom"
-  },
-  {
-   "sub": "462de2a9",
-   "stageId": "XX",
-   "author": "TVIndustries",
-   "title": "MvC1 - Cliffs of Desolation",
-   "name": "Cliffs of Desolation",
-   "thumb": "c_XX_462de2a9_thumb.jpg",
-   "c": "c_XX_462de2a9_c.jpg",
-   "l": "c_XX_462de2a9_l.jpg",
-   "r": "c_XX_462de2a9_r.jpg",
-   "v": "c_XX_462de2a9_pan.mp4",
-   "tex": "c_XX_462de2a9_tex.BIN",
-   "kind": "port",
-   "pol": "c_XX_462de2a9_pol.BIN",
    "game": "Marvel vs. Capcom"
   },
   {
@@ -1900,22 +1884,6 @@
    "game": "Marvel vs. Capcom"
   },
   {
-   "sub": "062d9720",
-   "stageId": "XX",
-   "author": "TVIndustries",
-   "title": "MvC1 - Onslaughts World v5.1",
-   "name": "Onslaughts World v5.1",
-   "thumb": "c_XX_062d9720_thumb.jpg",
-   "c": "c_XX_062d9720_c.jpg",
-   "l": "c_XX_062d9720_l.jpg",
-   "r": "c_XX_062d9720_r.jpg",
-   "v": "c_XX_062d9720_pan.mp4",
-   "tex": "c_XX_062d9720_tex.BIN",
-   "kind": "port",
-   "pol": "c_XX_062d9720_pol.BIN",
-   "game": "Marvel vs. Capcom"
-  },
-  {
    "sub": "59635ab4",
    "stageId": "XX",
    "author": "karttoon",
@@ -1961,6 +1929,38 @@
    "tex": "c_XX_c5f4e081_tex.BIN",
    "pol": "c_XX_c5f4e081_pol.BIN",
    "kind": "port",
+   "game": "Marvel vs. Capcom"
+  },
+  {
+   "sub": "462de2a9",
+   "stageId": "XX",
+   "author": "TVIndustries",
+   "title": "MvC1 - Cliffs of Desolation",
+   "name": "Cliffs of Desolation",
+   "thumb": "c_XX_462de2a9_thumb.jpg",
+   "c": "c_XX_462de2a9_c.jpg",
+   "l": "c_XX_462de2a9_l.jpg",
+   "r": "c_XX_462de2a9_r.jpg",
+   "v": "c_XX_462de2a9_pan.mp4",
+   "tex": "c_XX_462de2a9_tex.BIN",
+   "kind": "port",
+   "pol": "c_XX_462de2a9_pol.BIN",
+   "game": "Marvel vs. Capcom"
+  },
+  {
+   "sub": "062d9720",
+   "stageId": "XX",
+   "author": "TVIndustries",
+   "title": "MvC1 - Onslaughts World v5.1",
+   "name": "Onslaughts World v5.1",
+   "thumb": "c_XX_062d9720_thumb.jpg",
+   "c": "c_XX_062d9720_c.jpg",
+   "l": "c_XX_062d9720_l.jpg",
+   "r": "c_XX_062d9720_r.jpg",
+   "v": "c_XX_062d9720_pan.mp4",
+   "tex": "c_XX_062d9720_tex.BIN",
+   "kind": "port",
+   "pol": "c_XX_062d9720_pol.BIN",
    "game": "Marvel vs. Capcom"
   },
   {
@@ -2396,22 +2396,6 @@
    "game": "X-Men vs. Street Fighter"
   },
   {
-   "sub": "6480b6b1",
-   "stageId": "XX",
-   "author": "TVIndustries",
-   "title": "XMvSF - The Cataract",
-   "name": "The Cataract",
-   "thumb": "c_XX_6480b6b1_thumb.jpg",
-   "c": "c_XX_6480b6b1_c.jpg",
-   "l": "c_XX_6480b6b1_l.jpg",
-   "r": "c_XX_6480b6b1_r.jpg",
-   "v": "c_XX_6480b6b1_pan.mp4",
-   "tex": "c_XX_6480b6b1_tex.BIN",
-   "kind": "port",
-   "pol": "c_XX_6480b6b1_pol.BIN",
-   "game": "X-Men vs. Street Fighter"
-  },
-  {
    "sub": "585bbd6d",
    "stageId": "XX",
    "author": "karttoon",
@@ -2441,6 +2425,22 @@
    "tex": "c_XX_c594beeb_tex.BIN",
    "pol": "c_XX_c594beeb_pol.BIN",
    "kind": "port",
+   "game": "X-Men vs. Street Fighter"
+  },
+  {
+   "sub": "6480b6b1",
+   "stageId": "XX",
+   "author": "TVIndustries",
+   "title": "XMvSF - The Cataract",
+   "name": "The Cataract",
+   "thumb": "c_XX_6480b6b1_thumb.jpg",
+   "c": "c_XX_6480b6b1_c.jpg",
+   "l": "c_XX_6480b6b1_l.jpg",
+   "r": "c_XX_6480b6b1_r.jpg",
+   "v": "c_XX_6480b6b1_pan.mp4",
+   "tex": "c_XX_6480b6b1_tex.BIN",
+   "kind": "port",
+   "pol": "c_XX_6480b6b1_pol.BIN",
    "game": "X-Men vs. Street Fighter"
   },
   {
