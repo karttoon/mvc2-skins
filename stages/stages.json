@@ -489,6 +489,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "da299313",
+   "stageId": "01",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Desert Stage (Orange Sky)",
+   "name": "",
+   "thumb": "c_01_da299313_thumb.jpg",
+   "c": "c_01_da299313_c.jpg",
+   "l": "c_01_da299313_l.jpg",
+   "r": "c_01_da299313_r.jpg",
+   "v": "c_01_da299313_pan.mp4",
+   "tex": "c_01_da299313_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "1560085a",
    "stageId": "01",
    "author": "B604MIX",
@@ -545,6 +559,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "50643cba",
+   "stageId": "02",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Factory Stage",
+   "name": "",
+   "thumb": "c_02_50643cba_thumb.jpg",
+   "c": "c_02_50643cba_c.jpg",
+   "l": "c_02_50643cba_l.jpg",
+   "r": "c_02_50643cba_r.jpg",
+   "v": "c_02_50643cba_pan.mp4",
+   "tex": "c_02_50643cba_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "0b49d4a4",
    "stageId": "02",
    "author": "B604MIX",
@@ -586,6 +614,20 @@
    "tex": "c_02_d452b9f7_tex.BIN",
    "kind": "retexture",
    "pol": "c_02_d452b9f7_pol.BIN"
+  },
+  {
+   "sub": "be8cdee1",
+   "stageId": "03",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Carnival Stage (Summer/Spring)",
+   "name": "",
+   "thumb": "c_03_be8cdee1_thumb.jpg",
+   "c": "c_03_be8cdee1_c.jpg",
+   "l": "c_03_be8cdee1_l.jpg",
+   "r": "c_03_be8cdee1_r.jpg",
+   "v": "c_03_be8cdee1_pan.mp4",
+   "tex": "c_03_be8cdee1_tex.BIN",
+   "kind": "retexture"
   },
   {
    "sub": "3740a10d",
@@ -745,6 +787,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "2a31dbba",
+   "stageId": "05",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Cave Stage (Water)",
+   "name": "",
+   "thumb": "c_05_2a31dbba_thumb.jpg",
+   "c": "c_05_2a31dbba_c.jpg",
+   "l": "c_05_2a31dbba_l.jpg",
+   "r": "c_05_2a31dbba_r.jpg",
+   "v": "c_05_2a31dbba_pan.mp4",
+   "tex": "c_05_2a31dbba_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "11a0b657",
    "stageId": "05",
    "author": "HEARTOFMAHVELV2",
@@ -786,6 +842,20 @@
    "tex": "c_06_652c62d5_tex.BIN",
    "kind": "retexture",
    "order": 0
+  },
+  {
+   "sub": "ddde2560",
+   "stageId": "06",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Clocktower Stage (Clear Sky)",
+   "name": "",
+   "thumb": "c_06_ddde2560_thumb.jpg",
+   "c": "c_06_ddde2560_c.jpg",
+   "l": "c_06_ddde2560_l.jpg",
+   "r": "c_06_ddde2560_r.jpg",
+   "v": "c_06_ddde2560_pan.mp4",
+   "tex": "c_06_ddde2560_tex.BIN",
+   "kind": "retexture"
   },
   {
    "sub": "3aad6a31",
@@ -844,6 +914,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "641f00ee",
+   "stageId": "07",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "River on Ice Stage",
+   "name": "",
+   "thumb": "c_07_641f00ee_thumb.jpg",
+   "c": "c_07_641f00ee_c.jpg",
+   "l": "c_07_641f00ee_l.jpg",
+   "r": "c_07_641f00ee_r.jpg",
+   "v": "c_07_641f00ee_pan.mp4",
+   "tex": "c_07_641f00ee_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "0e731ad7",
    "stageId": "07",
    "author": "HEARTOFMAHVELV2",
@@ -869,6 +953,20 @@
    "r": "c_07_410a0ee5_r.jpg",
    "v": "c_07_410a0ee5_pan.mp4",
    "tex": "c_07_410a0ee5_tex.BIN",
+   "kind": "retexture"
+  },
+  {
+   "sub": "f680494f",
+   "stageId": "08",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Abyss Stage",
+   "name": "",
+   "thumb": "c_08_f680494f_thumb.jpg",
+   "c": "c_08_f680494f_c.jpg",
+   "l": "c_08_f680494f_l.jpg",
+   "r": "c_08_f680494f_r.jpg",
+   "v": "c_08_f680494f_pan.mp4",
+   "tex": "c_08_f680494f_tex.BIN",
    "kind": "retexture"
   },
   {
@@ -900,6 +998,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "30e0b1e3",
+   "stageId": "09",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Airship Stage (Night, Floating)",
+   "name": "",
+   "thumb": "c_09_30e0b1e3_thumb.jpg",
+   "c": "c_09_30e0b1e3_c.jpg",
+   "l": "c_09_30e0b1e3_l.jpg",
+   "r": "c_09_30e0b1e3_r.jpg",
+   "v": "c_09_30e0b1e3_pan.mp4",
+   "tex": "c_09_30e0b1e3_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "a7e7a4fc",
    "stageId": "0A",
    "author": "HEARTOFMAHVELV2",
@@ -914,6 +1026,21 @@
    "kind": "retexture"
   },
   {
+   "sub": "a1d256b0",
+   "stageId": "0B",
+   "author": "herbderken",
+   "title": "Master Mold",
+   "name": "Master Mold",
+   "thumb": "c_0B_a1d256b0_thumb.jpg",
+   "c": "c_0B_a1d256b0_c.jpg",
+   "l": "c_0B_a1d256b0_l.jpg",
+   "r": "c_0B_a1d256b0_r.jpg",
+   "v": "c_0B_a1d256b0_pan.mp4",
+   "tex": "c_0B_a1d256b0_tex.BIN",
+   "pol": "c_0B_a1d256b0_pol.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "813d446e",
    "stageId": "0B",
    "author": "Neofantomu",
@@ -925,6 +1052,20 @@
    "r": "c_0B_813d446e_r.jpg",
    "v": "c_0B_813d446e_pan.mp4",
    "tex": "c_0B_813d446e_tex.BIN",
+   "kind": "retexture"
+  },
+  {
+   "sub": "0d969330",
+   "stageId": "0B",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Training Stage",
+   "name": "",
+   "thumb": "c_0B_0d969330_thumb.jpg",
+   "c": "c_0B_0d969330_c.jpg",
+   "l": "c_0B_0d969330_l.jpg",
+   "r": "c_0B_0d969330_r.jpg",
+   "v": "c_0B_0d969330_pan.mp4",
+   "tex": "c_0B_0d969330_tex.BIN",
    "kind": "retexture"
   },
   {
@@ -1112,6 +1253,20 @@
    "kind": "retexture"
   },
   {
+   "sub": "20b1a9f6",
+   "stageId": "0E",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "Cave Stage (Lava)",
+   "name": "",
+   "thumb": "c_0E_20b1a9f6_thumb.jpg",
+   "c": "c_0E_20b1a9f6_c.jpg",
+   "l": "c_0E_20b1a9f6_l.jpg",
+   "r": "c_0E_20b1a9f6_r.jpg",
+   "v": "c_0E_20b1a9f6_pan.mp4",
+   "tex": "c_0E_20b1a9f6_tex.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "3555fc22",
    "stageId": "0F",
    "author": "HEARTOFMAHVELV2",
@@ -1140,6 +1295,21 @@
    "kind": "retexture"
   },
   {
+   "sub": "03ed650a",
+   "stageId": "0F",
+   "author": "herbderken",
+   "title": "Ice",
+   "name": "Ice",
+   "thumb": "c_0F_03ed650a_thumb.jpg",
+   "c": "c_0F_03ed650a_c.jpg",
+   "l": "c_0F_03ed650a_l.jpg",
+   "r": "c_0F_03ed650a_r.jpg",
+   "v": "c_0F_03ed650a_pan.mp4",
+   "tex": "c_0F_03ed650a_tex.BIN",
+   "pol": "c_0F_03ed650a_pol.BIN",
+   "kind": "retexture"
+  },
+  {
    "sub": "08a7250a",
    "stageId": "0F",
    "author": "Alan Jesse",
@@ -1165,6 +1335,20 @@
    "r": "c_10_50c012d9_r.jpg",
    "v": "c_10_50c012d9_pan.mp4",
    "tex": "c_10_50c012d9_tex.BIN",
+   "kind": "retexture"
+  },
+  {
+   "sub": "fad25902",
+   "stageId": "10",
+   "author": "MvC2_TE_FK24_4P",
+   "title": "River on Raft Stage",
+   "name": "",
+   "thumb": "c_10_fad25902_thumb.jpg",
+   "c": "c_10_fad25902_c.jpg",
+   "l": "c_10_fad25902_l.jpg",
+   "r": "c_10_fad25902_r.jpg",
+   "v": "c_10_fad25902_pan.mp4",
+   "tex": "c_10_fad25902_tex.BIN",
    "kind": "retexture"
   },
   {
