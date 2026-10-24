@@ -1399,6 +1399,21 @@
    "kind": "original"
   },
   {
+   "sub": "a9ace327",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Castle Doom",
+   "name": "Castle Doom",
+   "thumb": "c_XX_a9ace327_thumb.jpg",
+   "c": "c_XX_a9ace327_c.jpg",
+   "l": "c_XX_a9ace327_l.jpg",
+   "r": "c_XX_a9ace327_r.jpg",
+   "v": "c_XX_a9ace327_pan.mp4",
+   "tex": "c_XX_a9ace327_tex.BIN",
+   "pol": "c_XX_a9ace327_pol.BIN",
+   "kind": "original"
+  },
+  {
    "sub": "f5869f3a",
    "stageId": "XX",
    "author": "TVIndustries",
