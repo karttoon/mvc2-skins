@@ -1414,6 +1414,21 @@
    "kind": "original"
   },
   {
+   "sub": "b9502953",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Danger Room",
+   "name": "Danger Room",
+   "thumb": "c_XX_b9502953_thumb.jpg",
+   "c": "c_XX_b9502953_c.jpg",
+   "l": "c_XX_b9502953_l.jpg",
+   "r": "c_XX_b9502953_r.jpg",
+   "v": "c_XX_b9502953_pan.mp4",
+   "tex": "c_XX_b9502953_tex.BIN",
+   "pol": "c_XX_b9502953_pol.BIN",
+   "kind": "original"
+  },
+  {
    "sub": "f5869f3a",
    "stageId": "XX",
    "author": "TVIndustries",
@@ -1533,6 +1548,21 @@
    "v": "c_XX_7116ed77_pan.mp4",
    "tex": "c_XX_7116ed77_tex.BIN",
    "pol": "c_XX_7116ed77_pol.BIN",
+   "kind": "original"
+  },
+  {
+   "sub": "5cce5873",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Sunset Suzaku Castle",
+   "name": "Sunset Suzaku Castle",
+   "thumb": "c_XX_5cce5873_thumb.jpg",
+   "c": "c_XX_5cce5873_c.jpg",
+   "l": "c_XX_5cce5873_l.jpg",
+   "r": "c_XX_5cce5873_r.jpg",
+   "v": "c_XX_5cce5873_pan.mp4",
+   "tex": "c_XX_5cce5873_tex.BIN",
+   "pol": "c_XX_5cce5873_pol.BIN",
    "kind": "original"
   },
   {
