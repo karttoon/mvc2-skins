@@ -1551,6 +1551,21 @@
    "kind": "original"
   },
   {
+   "sub": "b0c094ad",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Savanna Grasslands",
+   "name": "Savanna Grasslands",
+   "thumb": "c_XX_b0c094ad_thumb.jpg",
+   "c": "c_XX_b0c094ad_c.jpg",
+   "l": "c_XX_b0c094ad_l.jpg",
+   "r": "c_XX_b0c094ad_r.jpg",
+   "v": "c_XX_b0c094ad_pan.mp4",
+   "tex": "c_XX_b0c094ad_tex.BIN",
+   "pol": "c_XX_b0c094ad_pol.BIN",
+   "kind": "original"
+  },
+  {
    "sub": "5cce5873",
    "stageId": "XX",
    "author": "herbderken",
@@ -2746,6 +2761,22 @@
    "game": "Street Fighter II"
   },
   {
+   "sub": "adfe9962",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "PSYCH OUT",
+   "name": "PSYCH OUT",
+   "thumb": "c_XX_adfe9962_thumb.jpg",
+   "c": "c_XX_adfe9962_c.jpg",
+   "l": "c_XX_adfe9962_l.jpg",
+   "r": "c_XX_adfe9962_r.jpg",
+   "v": "c_XX_adfe9962_pan.mp4",
+   "tex": "c_XX_adfe9962_tex.BIN",
+   "pol": "c_XX_adfe9962_pol.BIN",
+   "kind": "port",
+   "game": "Street Fighter III: 3rd Strike"
+  },
+  {
    "sub": "c5698229",
    "stageId": "XX",
    "author": "TVIndustries",
@@ -2954,6 +2985,22 @@
    "game": "X-Men vs. Street Fighter"
   },
   {
+   "sub": "a927c0e3",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Showdown in the Park",
+   "name": "Showdown in the Park",
+   "thumb": "c_XX_a927c0e3_thumb.jpg",
+   "c": "c_XX_a927c0e3_c.jpg",
+   "l": "c_XX_a927c0e3_l.jpg",
+   "r": "c_XX_a927c0e3_r.jpg",
+   "v": "c_XX_a927c0e3_pan.mp4",
+   "tex": "c_XX_a927c0e3_tex.BIN",
+   "pol": "c_XX_a927c0e3_pol.BIN",
+   "kind": "port",
+   "game": "X-Men vs. Street Fighter"
+  },
+  {
    "sub": "6480b6b1",
    "stageId": "XX",
    "author": "TVIndustries",
@@ -2967,6 +3014,22 @@
    "tex": "c_XX_6480b6b1_tex.BIN",
    "kind": "port",
    "pol": "c_XX_6480b6b1_pol.BIN",
+   "game": "X-Men vs. Street Fighter"
+  },
+  {
+   "sub": "3a920949",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "The Temple of Fists",
+   "name": "The Temple of Fists",
+   "thumb": "c_XX_3a920949_thumb.jpg",
+   "c": "c_XX_3a920949_c.jpg",
+   "l": "c_XX_3a920949_l.jpg",
+   "r": "c_XX_3a920949_r.jpg",
+   "v": "c_XX_3a920949_pan.mp4",
+   "tex": "c_XX_3a920949_tex.BIN",
+   "pol": "c_XX_3a920949_pol.BIN",
+   "kind": "port",
    "game": "X-Men vs. Street Fighter"
   },
   {
