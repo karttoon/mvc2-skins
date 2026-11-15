@@ -392,29 +392,6 @@
    },
    "tex": "m_10_tex.BIN",
    "author": "karttoon"
-  },
-  {
-   "id": "CV",
-   "n": "NeoCity",
-   "st": "done",
-   "mod": {
-    "thumb": "m_CV_thumb.jpg",
-    "c": "m_CV_c.jpg",
-    "l": "m_CV_l.jpg",
-    "r": "m_CV_r.jpg",
-    "v": "m_CV_pan.mp4"
-   },
-   "def": {
-    "thumb": "d_CV_thumb.jpg",
-    "c": "d_CV_c.jpg",
-    "l": "d_CV_l.jpg",
-    "r": "d_CV_r.jpg",
-    "v": "d_CV_pan.mp4"
-   },
-   "tex": "m_CV_tex.BIN",
-   "author": "karttoon",
-   "pol": "m_CV_pol.BIN",
-   "compareTo": "13250a16"
   }
  ],
  "community": [
@@ -1337,6 +1314,21 @@
    "kind": "retexture"
   },
   {
+   "sub": "08ace53d",
+   "stageId": "XX",
+   "author": "karttoon",
+   "title": "NeoCity",
+   "name": "NeoCity",
+   "thumb": "m_CV_thumb.jpg",
+   "c": "m_CV_c.jpg",
+   "l": "m_CV_l.jpg",
+   "r": "m_CV_r.jpg",
+   "v": "m_CV_pan.mp4",
+   "tex": "m_CV_tex.BIN",
+   "pol": "m_CV_pol.BIN",
+   "kind": "original"
+  },
+  {
    "sub": "35750149",
    "stageId": "XX",
    "author": "herbderken",
@@ -1551,6 +1543,21 @@
    "kind": "original"
   },
   {
+   "sub": "18087ba2",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Raging Inferno",
+   "name": "Raging Inferno",
+   "thumb": "c_XX_18087ba2_thumb.jpg",
+   "c": "c_XX_18087ba2_c.jpg",
+   "l": "c_XX_18087ba2_l.jpg",
+   "r": "c_XX_18087ba2_r.jpg",
+   "v": "c_XX_18087ba2_pan.mp4",
+   "tex": "c_XX_18087ba2_tex.BIN",
+   "pol": "c_XX_18087ba2_pol.BIN",
+   "kind": "original"
+  },
+  {
    "sub": "b0c094ad",
    "stageId": "XX",
    "author": "herbderken",
@@ -1566,11 +1573,26 @@
    "kind": "original"
   },
   {
+   "sub": "dfe6a1f9",
+   "stageId": "XX",
+   "author": "herbderken",
+   "title": "Suzaku Castle (Night)",
+   "name": "Suzaku Castle (Night)",
+   "thumb": "c_XX_dfe6a1f9_thumb.jpg",
+   "c": "c_XX_dfe6a1f9_c.jpg",
+   "l": "c_XX_dfe6a1f9_l.jpg",
+   "r": "c_XX_dfe6a1f9_r.jpg",
+   "v": "c_XX_dfe6a1f9_pan.mp4",
+   "tex": "c_XX_dfe6a1f9_tex.BIN",
+   "pol": "c_XX_dfe6a1f9_pol.BIN",
+   "kind": "original"
+  },
+  {
    "sub": "5cce5873",
    "stageId": "XX",
    "author": "herbderken",
-   "title": "Sunset Suzaku Castle",
-   "name": "Sunset Suzaku Castle",
+   "title": "Suzaku Castle (Sunset)",
+   "name": "Suzaku Castle (Sunset)",
    "thumb": "c_XX_5cce5873_thumb.jpg",
    "c": "c_XX_5cce5873_c.jpg",
    "l": "c_XX_5cce5873_l.jpg",
@@ -1629,8 +1651,8 @@
    "sub": "0fa376d1",
    "stageId": "XX",
    "author": "marvel2stages",
-   "title": "Training Dojo Snow",
-   "name": "Training Dojo Snow",
+   "title": "Training Dojo (Snow)",
+   "name": "Training Dojo (Snow)",
    "thumb": "c_XX_0fa376d1_thumb.jpg",
    "c": "c_XX_0fa376d1_c.jpg",
    "l": "c_XX_0fa376d1_l.jpg",
